@@ -52,7 +52,7 @@
       "id": 170,
       "iso2": "co",
       "name": "Colombia",
-      "pts": 1998,
+      "pts": 2006,
       "fifaMember": true,
       "weirdo": false
     },
@@ -454,15 +454,6 @@
     },
     {
       "rank": 51,
-      "id": 180,
-      "iso2": "cd",
-      "name": "Congo, The Democratic Republic of the",
-      "pts": 1674,
-      "fifaMember": true,
-      "weirdo": false
-    },
-    {
-      "rank": 52,
       "id": 591,
       "iso2": "pa",
       "name": "Panama",
@@ -471,11 +462,20 @@
       "weirdo": false
     },
     {
-      "rank": 53,
+      "rank": 52,
       "id": 703,
       "iso2": "sk",
       "name": "Slovakia",
       "pts": 1667,
+      "fifaMember": true,
+      "weirdo": false
+    },
+    {
+      "rank": 53,
+      "id": 180,
+      "iso2": "cd",
+      "name": "Congo, The Democratic Republic of the",
+      "pts": 1666,
       "fifaMember": true,
       "weirdo": false
     },

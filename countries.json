@@ -11,7 +11,8 @@
       "it": "Kabul",
       "es": "Kabul"
     },
-    "population": 42647492
+    "population": 42647492,
+    "pop_year": "2024"
   },
   "8": {
     "id": 8,
@@ -25,7 +26,8 @@
       "it": "Tirana",
       "es": "Tirana"
     },
-    "population": 2377128
+    "population": 2377128,
+    "pop_year": "2024"
   },
   "10": {
     "id": 10,
@@ -47,7 +49,8 @@
       "it": "Algeri",
       "es": "Argel"
     },
-    "population": 46814308
+    "population": 46814308,
+    "pop_year": "2024"
   },
   "16": {
     "id": 16,
@@ -57,7 +60,8 @@
     "capital": {
       "en": "Pago Pago"
     },
-    "population": 46765
+    "population": 46765,
+    "pop_year": "2024"
   },
   "20": {
     "id": 20,
@@ -71,7 +75,8 @@
       "it": "Andorra la Vella",
       "es": "Andorra la Vieja"
     },
-    "population": 81938
+    "population": 81938,
+    "pop_year": "2024"
   },
   "24": {
     "id": 24,
@@ -85,7 +90,8 @@
       "it": "Luanda",
       "es": "Luanda"
     },
-    "population": 37885849
+    "population": 37885849,
+    "pop_year": "2024"
   },
   "28": {
     "id": 28,
@@ -99,7 +105,8 @@
       "it": "Saint John's",
       "es": "Saint John"
     },
-    "population": 93772
+    "population": 93772,
+    "pop_year": "2024"
   },
   "31": {
     "id": 31,
@@ -113,7 +120,8 @@
       "it": "Baku",
       "es": "Bakú"
     },
-    "population": 10202830
+    "population": 10202830,
+    "pop_year": "2024"
   },
   "32": {
     "id": 32,
@@ -127,7 +135,8 @@
       "it": "Buenos Aires",
       "es": "Buenos Aires"
     },
-    "population": 45696159
+    "population": 45696159,
+    "pop_year": "2024"
   },
   "36": {
     "id": 36,
@@ -141,7 +150,8 @@
       "it": "Canberra",
       "es": "Canberra"
     },
-    "population": 27196812
+    "population": 27196812,
+    "pop_year": "2024"
   },
   "40": {
     "id": 40,
@@ -155,7 +165,8 @@
       "it": "Vienna",
       "es": "Viena"
     },
-    "population": 9177982
+    "population": 9177982,
+    "pop_year": "2024"
   },
   "44": {
     "id": 44,
@@ -169,7 +180,8 @@
       "it": "Nassau",
       "es": "Nasáu"
     },
-    "population": 401283
+    "population": 401283,
+    "pop_year": "2024"
   },
   "48": {
     "id": 48,
@@ -183,7 +195,8 @@
       "it": "Manama",
       "es": "Manama"
     },
-    "population": 1588670
+    "population": 1588670,
+    "pop_year": "2024"
   },
   "50": {
     "id": 50,
@@ -197,7 +210,8 @@
       "it": "Dacca",
       "es": "Daca"
     },
-    "population": 173562364
+    "population": 173562364,
+    "pop_year": "2024"
   },
   "51": {
     "id": 51,
@@ -211,7 +225,8 @@
       "it": "Erevan",
       "es": "Ereván"
     },
-    "population": 3033500
+    "population": 3033500,
+    "pop_year": "2024"
   },
   "52": {
     "id": 52,
@@ -225,7 +240,8 @@
       "it": "Bridgetown",
       "es": "Bridgetown"
     },
-    "population": 282467
+    "population": 282467,
+    "pop_year": "2024"
   },
   "56": {
     "id": 56,
@@ -239,7 +255,8 @@
       "it": "Bruxelles",
       "es": "Bruselas"
     },
-    "population": 11858610
+    "population": 11858610,
+    "pop_year": "2024"
   },
   "60": {
     "id": 60,
@@ -249,7 +266,8 @@
     "capital": {
       "en": "Hamilton"
     },
-    "population": 64636
+    "population": 64636,
+    "pop_year": "2024"
   },
   "64": {
     "id": 64,
@@ -263,7 +281,8 @@
       "it": "Thimphu",
       "es": "Timbu"
     },
-    "population": 791524
+    "population": 791524,
+    "pop_year": "2024"
   },
   "68": {
     "id": 68,
@@ -277,7 +296,8 @@
       "it": "Sucre",
       "es": "Sucre"
     },
-    "population": 12413315
+    "population": 12413315,
+    "pop_year": "2024"
   },
   "70": {
     "id": 70,
@@ -291,7 +311,8 @@
       "it": "Sarajevo",
       "es": "Sarajevo"
     },
-    "population": 3164253
+    "population": 3164253,
+    "pop_year": "2024"
   },
   "72": {
     "id": 72,
@@ -305,7 +326,8 @@
       "it": "Gaborone",
       "es": "Gaborone"
     },
-    "population": 2521139
+    "population": 2521139,
+    "pop_year": "2024"
   },
   "74": {
     "id": 74,
@@ -327,7 +349,8 @@
       "it": "Brasilia",
       "es": "Brasilia"
     },
-    "population": 211998573
+    "population": 211998573,
+    "pop_year": "2024"
   },
   "84": {
     "id": 84,
@@ -341,7 +364,8 @@
       "it": "Belmopan",
       "es": "Belmopán"
     },
-    "population": 417072
+    "population": 417072,
+    "pop_year": "2024"
   },
   "86": {
     "id": 86,
@@ -365,7 +389,8 @@
       "it": "Honiara",
       "es": "Honiara"
     },
-    "population": 819198
+    "population": 819198,
+    "pop_year": "2024"
   },
   "92": {
     "id": 92,
@@ -375,7 +400,8 @@
     "capital": {
       "en": "Road Town"
     },
-    "population": 39471
+    "population": 39471,
+    "pop_year": "2024"
   },
   "96": {
     "id": 96,
@@ -389,7 +415,8 @@
       "it": "Bandar Seri Begawan",
       "es": "Bandar Seri Begawan"
     },
-    "population": 462721
+    "population": 462721,
+    "pop_year": "2024"
   },
   "100": {
     "id": 100,
@@ -403,7 +430,8 @@
       "it": "Sofia",
       "es": "Sofía"
     },
-    "population": 6441421
+    "population": 6441421,
+    "pop_year": "2024"
   },
   "104": {
     "id": 104,
@@ -417,7 +445,8 @@
       "it": "Naypyidaw",
       "es": "Naipyidó"
     },
-    "population": 54500091
+    "population": 54500091,
+    "pop_year": "2024"
   },
   "108": {
     "id": 108,
@@ -431,7 +460,8 @@
       "it": "Gitega",
       "es": "Guitega"
     },
-    "population": 14047786
+    "population": 14047786,
+    "pop_year": "2024"
   },
   "112": {
     "id": 112,
@@ -445,7 +475,8 @@
       "it": "Minsk",
       "es": "Minsk"
     },
-    "population": 9132629
+    "population": 9132629,
+    "pop_year": "2024"
   },
   "116": {
     "id": 116,
@@ -459,7 +490,8 @@
       "it": "Phnom Penh",
       "es": "Nom Pen"
     },
-    "population": 17638801
+    "population": 17638801,
+    "pop_year": "2024"
   },
   "120": {
     "id": 120,
@@ -473,7 +505,8 @@
       "it": "Yaoundé",
       "es": "Yaundé"
     },
-    "population": 29123744
+    "population": 29123744,
+    "pop_year": "2024"
   },
   "124": {
     "id": 124,
@@ -487,7 +520,8 @@
       "it": "Ottawa",
       "es": "Ottawa"
     },
-    "population": 41288599
+    "population": 41288599,
+    "pop_year": "2024"
   },
   "132": {
     "id": 132,
@@ -501,7 +535,8 @@
       "it": "Praia",
       "es": "Praia"
     },
-    "population": 524877
+    "population": 524877,
+    "pop_year": "2024"
   },
   "136": {
     "id": 136,
@@ -511,7 +546,8 @@
     "capital": {
       "en": "George Town"
     },
-    "population": 74457
+    "population": 74457,
+    "pop_year": "2024"
   },
   "140": {
     "id": 140,
@@ -525,7 +561,8 @@
       "it": "Bangui",
       "es": "Bangui"
     },
-    "population": 5330690
+    "population": 5330690,
+    "pop_year": "2024"
   },
   "144": {
     "id": 144,
@@ -533,13 +570,14 @@
     "alpha3": "LKA",
     "name": "Sri Lanka",
     "capital": {
-      "en": "Sri Jayawardenepura Kotte",
-      "fr": "Sri Jayawardenapura",
-      "de": "Sri Jayewardenepura Kotte",
-      "it": "Sri Jayawardenapura Kotte",
-      "es": "Sri Jayawardenapura Kotte"
+      "en": "Colombo",
+      "fr": "Colombo",
+      "de": "Colombo",
+      "it": "Colombo",
+      "es": "Colombo"
     },
-    "population": 21916000
+    "population": 21916000,
+    "pop_year": "2024"
   },
   "148": {
     "id": 148,
@@ -553,7 +591,8 @@
       "it": "N’Djamena",
       "es": "Yamena"
     },
-    "population": 20299123
+    "population": 20299123,
+    "pop_year": "2024"
   },
   "152": {
     "id": 152,
@@ -567,7 +606,8 @@
       "it": "Santiago del Cile",
       "es": "Santiago de Chile"
     },
-    "population": 19764771
+    "population": 19764771,
+    "pop_year": "2024"
   },
   "156": {
     "id": 156,
@@ -581,7 +621,8 @@
       "it": "Pechino",
       "es": "Pekín"
     },
-    "population": 1408975000
+    "population": 1408975000,
+    "pop_year": "2024"
   },
   "158": {
     "id": 158,
@@ -629,7 +670,8 @@
       "it": "Bogotà",
       "es": "Bogotá"
     },
-    "population": 52886363
+    "population": 52886363,
+    "pop_year": "2024"
   },
   "174": {
     "id": 174,
@@ -643,7 +685,8 @@
       "it": "Moroni",
       "es": "Moroni"
     },
-    "population": 866628
+    "population": 866628,
+    "pop_year": "2024"
   },
   "175": {
     "id": 175,
@@ -667,7 +710,8 @@
       "it": "Brazzaville",
       "es": "Brazzaville"
     },
-    "population": 6332961
+    "population": 6332961,
+    "pop_year": "2024"
   },
   "180": {
     "id": 180,
@@ -681,7 +725,8 @@
       "it": "Kinshasa",
       "es": "Kinsasa"
     },
-    "population": 109276265
+    "population": 109276265,
+    "pop_year": "2024"
   },
   "184": {
     "id": 184,
@@ -705,7 +750,8 @@
       "it": "San José",
       "es": "San José"
     },
-    "population": 5129910
+    "population": 5129910,
+    "pop_year": "2024"
   },
   "191": {
     "id": 191,
@@ -719,7 +765,8 @@
       "it": "Zagabria",
       "es": "Zagreb"
     },
-    "population": 3866200
+    "population": 3866200,
+    "pop_year": "2024"
   },
   "192": {
     "id": 192,
@@ -733,7 +780,8 @@
       "it": "L'Avana",
       "es": "La Habana"
     },
-    "population": 10979783
+    "population": 10979783,
+    "pop_year": "2024"
   },
   "196": {
     "id": 196,
@@ -747,7 +795,8 @@
       "it": "Nicosia",
       "es": "Nicosia"
     },
-    "population": 1358282
+    "population": 1358282,
+    "pop_year": "2024"
   },
   "203": {
     "id": 203,
@@ -761,7 +810,8 @@
       "it": "Praga",
       "es": "Praga"
     },
-    "population": 10905028
+    "population": 10905028,
+    "pop_year": "2024"
   },
   "204": {
     "id": 204,
@@ -775,7 +825,8 @@
       "it": "Porto-Novo",
       "es": "Porto Novo"
     },
-    "population": 14462724
+    "population": 14462724,
+    "pop_year": "2024"
   },
   "208": {
     "id": 208,
@@ -785,7 +836,8 @@
     "capital": {
       "en": "Copenhagen"
     },
-    "population": 5976992
+    "population": 5976992,
+    "pop_year": "2024"
   },
   "212": {
     "id": 212,
@@ -799,7 +851,8 @@
       "it": "Roseau",
       "es": "Roseau"
     },
-    "population": 66205
+    "population": 66205,
+    "pop_year": "2024"
   },
   "214": {
     "id": 214,
@@ -813,7 +866,8 @@
       "it": "Santo Domingo",
       "es": "Santo Domingo"
     },
-    "population": 11427557
+    "population": 11427557,
+    "pop_year": "2024"
   },
   "218": {
     "id": 218,
@@ -827,7 +881,8 @@
       "it": "Quito",
       "es": "Quito"
     },
-    "population": 18135478
+    "population": 18135478,
+    "pop_year": "2024"
   },
   "222": {
     "id": 222,
@@ -841,7 +896,8 @@
       "it": "San Salvador",
       "es": "San Salvador"
     },
-    "population": 6338193
+    "population": 6338193,
+    "pop_year": "2024"
   },
   "226": {
     "id": 226,
@@ -855,7 +911,8 @@
       "it": "Ciudad de la Paz",
       "es": "Ciudad de la Paz"
     },
-    "population": 1892516
+    "population": 1892516,
+    "pop_year": "2024"
   },
   "231": {
     "id": 231,
@@ -869,7 +926,8 @@
       "it": "Addis Abeba",
       "es": "Adís Abeba"
     },
-    "population": 132059767
+    "population": 132059767,
+    "pop_year": "2024"
   },
   "232": {
     "id": 232,
@@ -883,7 +941,8 @@
       "it": "Asmara",
       "es": "Asmara"
     },
-    "population": 3535603
+    "population": 3535603,
+    "pop_year": "2024"
   },
   "233": {
     "id": 233,
@@ -897,7 +956,8 @@
       "it": "Tallinn",
       "es": "Tallin"
     },
-    "population": 1372341
+    "population": 1372341,
+    "pop_year": "2024"
   },
   "234": {
     "id": 234,
@@ -907,7 +967,8 @@
     "capital": {
       "en": "Tórshavn"
     },
-    "population": 54681
+    "population": 54681,
+    "pop_year": "2024"
   },
   "238": {
     "id": 238,
@@ -941,7 +1002,8 @@
       "it": "Suva",
       "es": "Suva"
     },
-    "population": 928784
+    "population": 928784,
+    "pop_year": "2024"
   },
   "246": {
     "id": 246,
@@ -955,7 +1017,8 @@
       "it": "Helsinki",
       "es": "Helsinki"
     },
-    "population": 5619911
+    "population": 5619911,
+    "pop_year": "2024"
   },
   "248": {
     "id": 248,
@@ -979,7 +1042,8 @@
       "it": "Parigi",
       "es": "París"
     },
-    "population": 68551653
+    "population": 68551653,
+    "pop_year": "2024"
   },
   "254": {
     "id": 254,
@@ -999,7 +1063,8 @@
     "capital": {
       "en": "Papeetē"
     },
-    "population": 281807
+    "population": 281807,
+    "pop_year": "2024"
   },
   "260": {
     "id": 260,
@@ -1023,7 +1088,8 @@
       "it": "Gibuti",
       "es": "Ciudad de Yibuti"
     },
-    "population": 1168722
+    "population": 1168722,
+    "pop_year": "2024"
   },
   "266": {
     "id": 266,
@@ -1037,7 +1103,8 @@
       "it": "Libreville",
       "es": "Libreville"
     },
-    "population": 2538952
+    "population": 2538952,
+    "pop_year": "2024"
   },
   "268": {
     "id": 268,
@@ -1051,7 +1118,8 @@
       "it": "Tbilisi",
       "es": "Tiflis"
     },
-    "population": 3699557
+    "population": 3699557,
+    "pop_year": "2024"
   },
   "270": {
     "id": 270,
@@ -1065,7 +1133,8 @@
       "it": "Banjul",
       "es": "Banjul"
     },
-    "population": 2759988
+    "population": 2759988,
+    "pop_year": "2024"
   },
   "275": {
     "id": 275,
@@ -1079,7 +1148,8 @@
       "it": "Gerusalemme Est",
       "es": "Jerusalén Este"
     },
-    "population": 5289152
+    "population": 5289152,
+    "pop_year": "2024"
   },
   "276": {
     "id": 276,
@@ -1093,7 +1163,8 @@
       "it": "Berlino",
       "es": "Berlín"
     },
-    "population": 83516593
+    "population": 83516593,
+    "pop_year": "2024"
   },
   "288": {
     "id": 288,
@@ -1107,7 +1178,8 @@
       "it": "Accra",
       "es": "Acra"
     },
-    "population": 34427414
+    "population": 34427414,
+    "pop_year": "2024"
   },
   "292": {
     "id": 292,
@@ -1117,7 +1189,8 @@
     "capital": {
       "en": "Gibraltar"
     },
-    "population": 39329
+    "population": 39329,
+    "pop_year": "2024"
   },
   "296": {
     "id": 296,
@@ -1131,7 +1204,8 @@
       "it": "Tarawa Sud",
       "es": "Tarawa Sur"
     },
-    "population": 134518
+    "population": 134518,
+    "pop_year": "2024"
   },
   "300": {
     "id": 300,
@@ -1145,7 +1219,8 @@
       "it": "Atene",
       "es": "Atenas"
     },
-    "population": 10405134
+    "population": 10405134,
+    "pop_year": "2024"
   },
   "304": {
     "id": 304,
@@ -1155,7 +1230,8 @@
     "capital": {
       "en": "Nuuk"
     },
-    "population": 56836
+    "population": 56836,
+    "pop_year": "2024"
   },
   "308": {
     "id": 308,
@@ -1169,7 +1245,8 @@
       "it": "Saint George's",
       "es": "Saint George"
     },
-    "population": 117207
+    "population": 117207,
+    "pop_year": "2024"
   },
   "312": {
     "id": 312,
@@ -1189,7 +1266,8 @@
     "capital": {
       "en": "Hagåtña"
     },
-    "population": 167777
+    "population": 167777,
+    "pop_year": "2024"
   },
   "320": {
     "id": 320,
@@ -1203,7 +1281,8 @@
       "it": "Città del Guatemala",
       "es": "Ciudad de Guatemala"
     },
-    "population": 18406359
+    "population": 18406359,
+    "pop_year": "2024"
   },
   "324": {
     "id": 324,
@@ -1217,7 +1296,8 @@
       "it": "Conakry",
       "es": "Conakri"
     },
-    "population": 14754785
+    "population": 14754785,
+    "pop_year": "2024"
   },
   "328": {
     "id": 328,
@@ -1231,7 +1311,8 @@
       "it": "Georgetown",
       "es": "Georgetown"
     },
-    "population": 831087
+    "population": 831087,
+    "pop_year": "2024"
   },
   "332": {
     "id": 332,
@@ -1245,7 +1326,8 @@
       "it": "Port-au-Prince",
       "es": "Puerto Príncipe"
     },
-    "population": 11772557
+    "population": 11772557,
+    "pop_year": "2024"
   },
   "334": {
     "id": 334,
@@ -1281,7 +1363,8 @@
       "it": "Tegucigalpa",
       "es": "Tegucigalpa"
     },
-    "population": 10825703
+    "population": 10825703,
+    "pop_year": "2024"
   },
   "344": {
     "id": 344,
@@ -1291,7 +1374,8 @@
     "capital": {
       "en": "City of Victoria"
     },
-    "population": 7524100
+    "population": 7524100,
+    "pop_year": "2024"
   },
   "348": {
     "id": 348,
@@ -1305,7 +1389,8 @@
       "it": "Budapest",
       "es": "Budapest"
     },
-    "population": 9562065
+    "population": 9562065,
+    "pop_year": "2024"
   },
   "352": {
     "id": 352,
@@ -1319,7 +1404,8 @@
       "it": "Reykjavík",
       "es": "Reikiavik"
     },
-    "population": 386506
+    "population": 386506,
+    "pop_year": "2024"
   },
   "356": {
     "id": 356,
@@ -1333,7 +1419,8 @@
       "it": "Nuova Delhi",
       "es": "Nueva Delhi"
     },
-    "population": 1450935791
+    "population": 1450935791,
+    "pop_year": "2024"
   },
   "360": {
     "id": 360,
@@ -1347,7 +1434,8 @@
       "it": "Giacarta",
       "es": "Yakarta"
     },
-    "population": 283487931
+    "population": 283487931,
+    "pop_year": "2024"
   },
   "364": {
     "id": 364,
@@ -1361,7 +1449,8 @@
       "it": "Teheran",
       "es": "Teherán"
     },
-    "population": 91567738
+    "population": 91567738,
+    "pop_year": "2024"
   },
   "368": {
     "id": 368,
@@ -1375,7 +1464,8 @@
       "it": "Baghdad",
       "es": "Bagdad"
     },
-    "population": 46042015
+    "population": 46042015,
+    "pop_year": "2024"
   },
   "372": {
     "id": 372,
@@ -1389,7 +1479,8 @@
       "it": "Dublino",
       "es": "Dublín"
     },
-    "population": 5395790
+    "population": 5395790,
+    "pop_year": "2024"
   },
   "376": {
     "id": 376,
@@ -1403,7 +1494,8 @@
       "it": "Gerusalemme",
       "es": "Jerusalén"
     },
-    "population": 9974400
+    "population": 9974400,
+    "pop_year": "2024"
   },
   "380": {
     "id": 380,
@@ -1417,7 +1509,8 @@
       "it": "Roma",
       "es": "Roma"
     },
-    "population": 58952704
+    "population": 58952704,
+    "pop_year": "2024"
   },
   "384": {
     "id": 384,
@@ -1431,7 +1524,8 @@
       "it": "Yamoussoukro",
       "es": "Yamusukro"
     },
-    "population": 31934230
+    "population": 31934230,
+    "pop_year": "2024"
   },
   "388": {
     "id": 388,
@@ -1445,7 +1539,8 @@
       "it": "Kingston",
       "es": "Kingston"
     },
-    "population": 2839175
+    "population": 2839175,
+    "pop_year": "2024"
   },
   "392": {
     "id": 392,
@@ -1459,7 +1554,8 @@
       "it": "Tokyo",
       "es": "Tokio"
     },
-    "population": 123975371
+    "population": 123975371,
+    "pop_year": "2024"
   },
   "398": {
     "id": 398,
@@ -1473,7 +1569,8 @@
       "it": "Astana",
       "es": "Astaná"
     },
-    "population": 20592571
+    "population": 20592571,
+    "pop_year": "2024"
   },
   "400": {
     "id": 400,
@@ -1487,7 +1584,8 @@
       "it": "Amman",
       "es": "Amán"
     },
-    "population": 11552876
+    "population": 11552876,
+    "pop_year": "2024"
   },
   "404": {
     "id": 404,
@@ -1501,7 +1599,8 @@
       "it": "Nairobi",
       "es": "Nairobi"
     },
-    "population": 56432944
+    "population": 56432944,
+    "pop_year": "2024"
   },
   "408": {
     "id": 408,
@@ -1515,7 +1614,8 @@
       "it": "Pyongyang",
       "es": "Pionyang"
     },
-    "population": 26498823
+    "population": 26498823,
+    "pop_year": "2024"
   },
   "410": {
     "id": 410,
@@ -1529,7 +1629,8 @@
       "it": "Seul",
       "es": "Seúl"
     },
-    "population": 51751065
+    "population": 51751065,
+    "pop_year": "2024"
   },
   "414": {
     "id": 414,
@@ -1543,7 +1644,8 @@
       "it": "Al Kuwait",
       "es": "Ciudad de Kuwait"
     },
-    "population": 4897263
+    "population": 4897263,
+    "pop_year": "2024"
   },
   "417": {
     "id": 417,
@@ -1557,7 +1659,8 @@
       "it": "Biškek",
       "es": "Biskek"
     },
-    "population": 7221868
+    "population": 7221868,
+    "pop_year": "2024"
   },
   "418": {
     "id": 418,
@@ -1571,7 +1674,8 @@
       "it": "Vientiane",
       "es": "Vientián"
     },
-    "population": 7769819
+    "population": 7769819,
+    "pop_year": "2024"
   },
   "422": {
     "id": 422,
@@ -1585,7 +1689,8 @@
       "it": "Beirut",
       "es": "Beirut"
     },
-    "population": 5805962
+    "population": 5805962,
+    "pop_year": "2024"
   },
   "426": {
     "id": 426,
@@ -1599,7 +1704,8 @@
       "it": "Maseru",
       "es": "Maseru"
     },
-    "population": 2337423
+    "population": 2337423,
+    "pop_year": "2024"
   },
   "428": {
     "id": 428,
@@ -1613,7 +1719,8 @@
       "it": "Riga",
       "es": "Riga"
     },
-    "population": 1866124
+    "population": 1866124,
+    "pop_year": "2024"
   },
   "430": {
     "id": 430,
@@ -1627,7 +1734,8 @@
       "it": "Monrovia",
       "es": "Monrovia"
     },
-    "population": 5612817
+    "population": 5612817,
+    "pop_year": "2024"
   },
   "434": {
     "id": 434,
@@ -1641,7 +1749,8 @@
       "it": "Tripoli",
       "es": "Trípoli"
     },
-    "population": 7381023
+    "population": 7381023,
+    "pop_year": "2024"
   },
   "438": {
     "id": 438,
@@ -1655,7 +1764,8 @@
       "it": "Vaduz",
       "es": "Vaduz"
     },
-    "population": 40450
+    "population": 40450,
+    "pop_year": "2024"
   },
   "440": {
     "id": 440,
@@ -1669,7 +1779,8 @@
       "it": "Vilnius",
       "es": "Vilna"
     },
-    "population": 2888278
+    "population": 2888278,
+    "pop_year": "2024"
   },
   "442": {
     "id": 442,
@@ -1683,7 +1794,8 @@
       "it": "Lussemburgo",
       "es": "Luxemburgo"
     },
-    "population": 677012
+    "population": 677012,
+    "pop_year": "2024"
   },
   "446": {
     "id": 446,
@@ -1691,7 +1803,8 @@
     "alpha3": "MAC",
     "name": "Macau",
     "capital": null,
-    "population": 687000
+    "population": 687000,
+    "pop_year": "2024"
   },
   "450": {
     "id": 450,
@@ -1705,7 +1818,8 @@
       "it": "Antananarivo",
       "es": "Antananarivo"
     },
-    "population": 31964956
+    "population": 31964956,
+    "pop_year": "2024"
   },
   "454": {
     "id": 454,
@@ -1719,7 +1833,8 @@
       "it": "Lilongwe",
       "es": "Lilongüe"
     },
-    "population": 21655286
+    "population": 21655286,
+    "pop_year": "2024"
   },
   "458": {
     "id": 458,
@@ -1733,7 +1848,8 @@
       "it": "Kuala Lumpur",
       "es": "Kuala Lumpur"
     },
-    "population": 35557673
+    "population": 35557673,
+    "pop_year": "2024"
   },
   "462": {
     "id": 462,
@@ -1747,7 +1863,8 @@
       "it": "Male",
       "es": "Malé"
     },
-    "population": 527799
+    "population": 527799,
+    "pop_year": "2024"
   },
   "466": {
     "id": 466,
@@ -1761,7 +1878,8 @@
       "it": "Bamako",
       "es": "Bamako"
     },
-    "population": 24478595
+    "population": 24478595,
+    "pop_year": "2024"
   },
   "470": {
     "id": 470,
@@ -1775,7 +1893,8 @@
       "it": "La Valletta",
       "es": "La Valeta"
     },
-    "population": 568847
+    "population": 568847,
+    "pop_year": "2024"
   },
   "474": {
     "id": 474,
@@ -1799,7 +1918,8 @@
       "it": "Nouakchott",
       "es": "Nuakchot"
     },
-    "population": 5169395
+    "population": 5169395,
+    "pop_year": "2024"
   },
   "480": {
     "id": 480,
@@ -1813,7 +1933,8 @@
       "it": "Port Louis",
       "es": "Port Louis"
     },
-    "population": 1245779
+    "population": 1245779,
+    "pop_year": "2024"
   },
   "484": {
     "id": 484,
@@ -1827,7 +1948,8 @@
       "it": "Città del Messico",
       "es": "Ciudad de México"
     },
-    "population": 130861007
+    "population": 130861007,
+    "pop_year": "2024"
   },
   "492": {
     "id": 492,
@@ -1835,13 +1957,14 @@
     "alpha3": "MCO",
     "name": "Monaco",
     "capital": {
-      "en": "Monaco City",
-      "fr": "Monaco-Ville",
-      "de": "Monaco-Stadt",
-      "it": "Monaco Vecchia",
-      "es": "Ciudad de Mónaco"
+      "en": "Monaco",
+      "fr": "Monaco",
+      "de": "Monaco",
+      "it": "Principato di Monaco",
+      "es": "Mónaco"
     },
-    "population": 38631
+    "population": 38631,
+    "pop_year": "2024"
   },
   "496": {
     "id": 496,
@@ -1855,7 +1978,8 @@
       "it": "Ulan Bator",
       "es": "Ulán Bator"
     },
-    "population": 3524788
+    "population": 3524788,
+    "pop_year": "2024"
   },
   "498": {
     "id": 498,
@@ -1869,7 +1993,8 @@
       "it": "Chișinău",
       "es": "Chisináu"
     },
-    "population": 2402306
+    "population": 2402306,
+    "pop_year": "2024"
   },
   "499": {
     "id": 499,
@@ -1883,7 +2008,8 @@
       "it": "Podgorica",
       "es": "Podgorica"
     },
-    "population": 623525
+    "population": 623525,
+    "pop_year": "2024"
   },
   "500": {
     "id": 500,
@@ -1907,7 +2033,8 @@
       "it": "Rabat",
       "es": "Rabat"
     },
-    "population": 38081173
+    "population": 38081173,
+    "pop_year": "2024"
   },
   "508": {
     "id": 508,
@@ -1921,7 +2048,8 @@
       "it": "Maputo",
       "es": "Maputo"
     },
-    "population": 34631766
+    "population": 34631766,
+    "pop_year": "2024"
   },
   "512": {
     "id": 512,
@@ -1935,7 +2063,8 @@
       "it": "Mascate",
       "es": "Mascate"
     },
-    "population": 5281538
+    "population": 5281538,
+    "pop_year": "2024"
   },
   "516": {
     "id": 516,
@@ -1949,7 +2078,8 @@
       "it": "Windhoek",
       "es": "Windhoek"
     },
-    "population": 3030131
+    "population": 3030131,
+    "pop_year": "2024"
   },
   "520": {
     "id": 520,
@@ -1963,7 +2093,8 @@
       "it": "Yaren",
       "es": "Yaren"
     },
-    "population": 11947
+    "population": 11947,
+    "pop_year": "2024"
   },
   "524": {
     "id": 524,
@@ -1977,7 +2108,8 @@
       "it": "Katmandu",
       "es": "Katmandú"
     },
-    "population": 29651054
+    "population": 29651054,
+    "pop_year": "2024"
   },
   "528": {
     "id": 528,
@@ -1991,7 +2123,8 @@
       "it": "Amsterdam",
       "es": "Ámsterdam"
     },
-    "population": 17993485
+    "population": 17993485,
+    "pop_year": "2024"
   },
   "531": {
     "id": 531,
@@ -2001,7 +2134,8 @@
     "capital": {
       "en": "Willemstad"
     },
-    "population": 155967
+    "population": 155967,
+    "pop_year": "2024"
   },
   "533": {
     "id": 533,
@@ -2011,7 +2145,8 @@
     "capital": {
       "en": "Oranjestad"
     },
-    "population": 107995
+    "population": 107995,
+    "pop_year": "2024"
   },
   "534": {
     "id": 534,
@@ -2021,7 +2156,8 @@
     "capital": {
       "en": "Philipsburg"
     },
-    "population": 43350
+    "population": 43350,
+    "pop_year": "2024"
   },
   "535": {
     "id": 535,
@@ -2041,7 +2177,8 @@
     "capital": {
       "en": "Nouméa"
     },
-    "population": 292639
+    "population": 292639,
+    "pop_year": "2024"
   },
   "548": {
     "id": 548,
@@ -2055,7 +2192,8 @@
       "it": "Port Vila",
       "es": "Port Vila"
     },
-    "population": 327777
+    "population": 327777,
+    "pop_year": "2024"
   },
   "554": {
     "id": 554,
@@ -2069,7 +2207,8 @@
       "it": "Wellington",
       "es": "Wellington"
     },
-    "population": 5287500
+    "population": 5287500,
+    "pop_year": "2024"
   },
   "558": {
     "id": 558,
@@ -2083,7 +2222,8 @@
       "it": "Managua",
       "es": "Managua"
     },
-    "population": 6916140
+    "population": 6916140,
+    "pop_year": "2024"
   },
   "562": {
     "id": 562,
@@ -2097,7 +2237,8 @@
       "it": "Niamey",
       "es": "Niamey"
     },
-    "population": 27032412
+    "population": 27032412,
+    "pop_year": "2024"
   },
   "566": {
     "id": 566,
@@ -2111,7 +2252,8 @@
       "it": "Abuja",
       "es": "Abuya"
     },
-    "population": 232679478
+    "population": 232679478,
+    "pop_year": "2024"
   },
   "570": {
     "id": 570,
@@ -2145,7 +2287,8 @@
       "it": "Oslo",
       "es": "Oslo"
     },
-    "population": 5572279
+    "population": 5572279,
+    "pop_year": "2024"
   },
   "580": {
     "id": 580,
@@ -2155,7 +2298,8 @@
     "capital": {
       "en": "Saipan"
     },
-    "population": 44278
+    "population": 44278,
+    "pop_year": "2024"
   },
   "581": {
     "id": 581,
@@ -2177,7 +2321,8 @@
       "it": "Palikir",
       "es": "Palikir"
     },
-    "population": 113160
+    "population": 113160,
+    "pop_year": "2024"
   },
   "584": {
     "id": 584,
@@ -2191,7 +2336,8 @@
       "it": "Majuro",
       "es": "Majuro"
     },
-    "population": 37548
+    "population": 37548,
+    "pop_year": "2024"
   },
   "585": {
     "id": 585,
@@ -2205,7 +2351,8 @@
       "it": "Ngerulmud",
       "es": "Ngerulmud"
     },
-    "population": 17695
+    "population": 17695,
+    "pop_year": "2024"
   },
   "586": {
     "id": 586,
@@ -2219,7 +2366,8 @@
       "it": "Islamabad",
       "es": "Islamabad"
     },
-    "population": 251269164
+    "population": 251269164,
+    "pop_year": "2024"
   },
   "591": {
     "id": 591,
@@ -2233,7 +2381,8 @@
       "it": "Panama",
       "es": "Ciudad de Panamá"
     },
-    "population": 4515577
+    "population": 4515577,
+    "pop_year": "2024"
   },
   "598": {
     "id": 598,
@@ -2247,7 +2396,8 @@
       "it": "Port Moresby",
       "es": "Puerto Moresby"
     },
-    "population": 10576502
+    "population": 10576502,
+    "pop_year": "2024"
   },
   "600": {
     "id": 600,
@@ -2261,7 +2411,8 @@
       "it": "Asunción",
       "es": "Asunción"
     },
-    "population": 6929153
+    "population": 6929153,
+    "pop_year": "2024"
   },
   "604": {
     "id": 604,
@@ -2275,7 +2426,8 @@
       "it": "Lima",
       "es": "Lima"
     },
-    "population": 34217848
+    "population": 34217848,
+    "pop_year": "2024"
   },
   "608": {
     "id": 608,
@@ -2289,7 +2441,8 @@
       "it": "Manila",
       "es": "Manila"
     },
-    "population": 115843670
+    "population": 115843670,
+    "pop_year": "2024"
   },
   "612": {
     "id": 612,
@@ -2313,7 +2466,8 @@
       "it": "Varsavia",
       "es": "Varsovia"
     },
-    "population": 36559233
+    "population": 36559233,
+    "pop_year": "2024"
   },
   "620": {
     "id": 620,
@@ -2327,7 +2481,8 @@
       "it": "Lisbona",
       "es": "Lisboa"
     },
-    "population": 10694681
+    "population": 10694681,
+    "pop_year": "2024"
   },
   "624": {
     "id": 624,
@@ -2341,7 +2496,8 @@
       "it": "Bissau",
       "es": "Bisáu"
     },
-    "population": 2201352
+    "population": 2201352,
+    "pop_year": "2024"
   },
   "626": {
     "id": 626,
@@ -2355,7 +2511,8 @@
       "it": "Dili",
       "es": "Dili"
     },
-    "population": 1400638
+    "population": 1400638,
+    "pop_year": "2024"
   },
   "630": {
     "id": 630,
@@ -2365,7 +2522,8 @@
     "capital": {
       "en": "San Juan"
     },
-    "population": 3203295
+    "population": 3203295,
+    "pop_year": "2024"
   },
   "634": {
     "id": 634,
@@ -2379,7 +2537,8 @@
       "it": "Doha",
       "es": "Doha"
     },
-    "population": 2857822
+    "population": 2857822,
+    "pop_year": "2024"
   },
   "638": {
     "id": 638,
@@ -2403,7 +2562,8 @@
       "it": "Bucarest",
       "es": "Bucarest"
     },
-    "population": 19051804
+    "population": 19051804,
+    "pop_year": "2024"
   },
   "643": {
     "id": 643,
@@ -2417,7 +2577,8 @@
       "it": "Mosca",
       "es": "Moscú"
     },
-    "population": 143533851
+    "population": 143533851,
+    "pop_year": "2024"
   },
   "646": {
     "id": 646,
@@ -2431,7 +2592,8 @@
       "it": "Kigali",
       "es": "Kigali"
     },
-    "population": 14256567
+    "population": 14256567,
+    "pop_year": "2024"
   },
   "652": {
     "id": 652,
@@ -2465,7 +2627,8 @@
       "it": "Basseterre",
       "es": "Basseterre"
     },
-    "population": 46843
+    "population": 46843,
+    "pop_year": "2024"
   },
   "660": {
     "id": 660,
@@ -2489,7 +2652,8 @@
       "it": "Castries",
       "es": "Castries"
     },
-    "population": 179744
+    "population": 179744,
+    "pop_year": "2024"
   },
   "663": {
     "id": 663,
@@ -2499,7 +2663,8 @@
     "capital": {
       "en": "Marigot"
     },
-    "population": 26129
+    "population": 26129,
+    "pop_year": "2024"
   },
   "666": {
     "id": 666,
@@ -2523,7 +2688,8 @@
       "it": "Kingstown",
       "es": "Kingstown"
     },
-    "population": 100616
+    "population": 100616,
+    "pop_year": "2024"
   },
   "674": {
     "id": 674,
@@ -2537,7 +2703,8 @@
       "it": "Città di San Marino",
       "es": "San Marino"
     },
-    "population": 33977
+    "population": 33977,
+    "pop_year": "2024"
   },
   "678": {
     "id": 678,
@@ -2551,7 +2718,8 @@
       "it": "São Tomé",
       "es": "Santo Tomé"
     },
-    "population": 235536
+    "population": 235536,
+    "pop_year": "2024"
   },
   "682": {
     "id": 682,
@@ -2565,7 +2733,8 @@
       "it": "Riad",
       "es": "Riad"
     },
-    "population": 35300280
+    "population": 35300280,
+    "pop_year": "2024"
   },
   "686": {
     "id": 686,
@@ -2579,7 +2748,8 @@
       "it": "Dakar",
       "es": "Dakar"
     },
-    "population": 18501984
+    "population": 18501984,
+    "pop_year": "2024"
   },
   "688": {
     "id": 688,
@@ -2593,7 +2763,8 @@
       "it": "Belgrado",
       "es": "Belgrado"
     },
-    "population": 6586476
+    "population": 6586476,
+    "pop_year": "2024"
   },
   "690": {
     "id": 690,
@@ -2607,7 +2778,8 @@
       "it": "Victoria",
       "es": "Victoria"
     },
-    "population": 121354
+    "population": 121354,
+    "pop_year": "2024"
   },
   "694": {
     "id": 694,
@@ -2621,7 +2793,8 @@
       "it": "Freetown",
       "es": "Freetown"
     },
-    "population": 8642022
+    "population": 8642022,
+    "pop_year": "2024"
   },
   "702": {
     "id": 702,
@@ -2635,7 +2808,8 @@
       "it": "Singapore",
       "es": "Singapur"
     },
-    "population": 6036860
+    "population": 6036860,
+    "pop_year": "2024"
   },
   "703": {
     "id": 703,
@@ -2649,7 +2823,8 @@
       "it": "Bratislava",
       "es": "Bratislava"
     },
-    "population": 5422069
+    "population": 5422069,
+    "pop_year": "2024"
   },
   "704": {
     "id": 704,
@@ -2663,7 +2838,8 @@
       "it": "Hanoi",
       "es": "Hanói"
     },
-    "population": 100987686
+    "population": 100987686,
+    "pop_year": "2024"
   },
   "705": {
     "id": 705,
@@ -2677,7 +2853,8 @@
       "it": "Lubiana",
       "es": "Liubliana"
     },
-    "population": 2127400
+    "population": 2127400,
+    "pop_year": "2024"
   },
   "706": {
     "id": 706,
@@ -2691,7 +2868,8 @@
       "it": "Mogadiscio",
       "es": "Mogadiscio"
     },
-    "population": 19009151
+    "population": 19009151,
+    "pop_year": "2024"
   },
   "710": {
     "id": 710,
@@ -2705,7 +2883,8 @@
       "it": "Bloemfontein",
       "es": "Bloemfontein"
     },
-    "population": 64007187
+    "population": 64007187,
+    "pop_year": "2024"
   },
   "716": {
     "id": 716,
@@ -2719,7 +2898,8 @@
       "it": "Harare",
       "es": "Harare"
     },
-    "population": 16634373
+    "population": 16634373,
+    "pop_year": "2024"
   },
   "724": {
     "id": 724,
@@ -2733,7 +2913,8 @@
       "it": "Madrid",
       "es": "Madrid"
     },
-    "population": 48848840
+    "population": 48848840,
+    "pop_year": "2024"
   },
   "728": {
     "id": 728,
@@ -2747,7 +2928,8 @@
       "it": "Giuba",
       "es": "Yuba"
     },
-    "population": 11943408
+    "population": 11943408,
+    "pop_year": "2024"
   },
   "729": {
     "id": 729,
@@ -2761,7 +2943,8 @@
       "it": "Khartum",
       "es": "Jartum"
     },
-    "population": 50448963
+    "population": 50448963,
+    "pop_year": "2024"
   },
   "732": {
     "id": 732,
@@ -2785,7 +2968,8 @@
       "it": "Paramaribo",
       "es": "Paramaribo"
     },
-    "population": 634431
+    "population": 634431,
+    "pop_year": "2024"
   },
   "744": {
     "id": 744,
@@ -2809,7 +2993,8 @@
       "it": "Lobamba",
       "es": "Lobamba"
     },
-    "population": 1242822
+    "population": 1242822,
+    "pop_year": "2024"
   },
   "752": {
     "id": 752,
@@ -2823,7 +3008,8 @@
       "it": "Stoccolma",
       "es": "Estocolmo"
     },
-    "population": 10569709
+    "population": 10569709,
+    "pop_year": "2024"
   },
   "756": {
     "id": 756,
@@ -2837,7 +3023,8 @@
       "it": "Berna",
       "es": "Berna"
     },
-    "population": 9005582
+    "population": 9005582,
+    "pop_year": "2024"
   },
   "760": {
     "id": 760,
@@ -2851,7 +3038,8 @@
       "it": "Damasco",
       "es": "Damasco"
     },
-    "population": 24672760
+    "population": 24672760,
+    "pop_year": "2024"
   },
   "762": {
     "id": 762,
@@ -2865,7 +3053,8 @@
       "it": "Dušanbe",
       "es": "Dusambé"
     },
-    "population": 10590927
+    "population": 10590927,
+    "pop_year": "2024"
   },
   "764": {
     "id": 764,
@@ -2879,7 +3068,8 @@
       "it": "Bangkok",
       "es": "Bangkok"
     },
-    "population": 71668011
+    "population": 71668011,
+    "pop_year": "2024"
   },
   "768": {
     "id": 768,
@@ -2893,7 +3083,8 @@
       "it": "Lomé",
       "es": "Lomé"
     },
-    "population": 9515236
+    "population": 9515236,
+    "pop_year": "2024"
   },
   "772": {
     "id": 772,
@@ -2917,7 +3108,8 @@
       "it": "Nukuʻalofa",
       "es": "Nukualofa"
     },
-    "population": 104175
+    "population": 104175,
+    "pop_year": "2024"
   },
   "780": {
     "id": 780,
@@ -2931,7 +3123,8 @@
       "it": "Port of Spain",
       "es": "Puerto España"
     },
-    "population": 1368333
+    "population": 1368333,
+    "pop_year": "2024"
   },
   "784": {
     "id": 784,
@@ -2945,7 +3138,8 @@
       "it": "Abu Dhabi",
       "es": "Abu Dhabi"
     },
-    "population": 10986400
+    "population": 10986400,
+    "pop_year": "2024"
   },
   "788": {
     "id": 788,
@@ -2959,7 +3153,8 @@
       "it": "Tunisi",
       "es": "Túnez"
     },
-    "population": 12277109
+    "population": 12277109,
+    "pop_year": "2024"
   },
   "792": {
     "id": 792,
@@ -2973,7 +3168,8 @@
       "it": "Ankara",
       "es": "Ankara"
     },
-    "population": 85518661
+    "population": 85518661,
+    "pop_year": "2024"
   },
   "795": {
     "id": 795,
@@ -2987,7 +3183,8 @@
       "it": "Aşgabat",
       "es": "Asjabad"
     },
-    "population": 7494498
+    "population": 7494498,
+    "pop_year": "2024"
   },
   "796": {
     "id": 796,
@@ -2997,7 +3194,8 @@
     "capital": {
       "en": "Cockburn Town"
     },
-    "population": 46535
+    "population": 46535,
+    "pop_year": "2024"
   },
   "798": {
     "id": 798,
@@ -3011,7 +3209,8 @@
       "it": "Funafuti",
       "es": "Funafuti"
     },
-    "population": 9646
+    "population": 9646,
+    "pop_year": "2024"
   },
   "800": {
     "id": 800,
@@ -3025,7 +3224,8 @@
       "it": "Kampala",
       "es": "Kampala"
     },
-    "population": 50015092
+    "population": 50015092,
+    "pop_year": "2024"
   },
   "804": {
     "id": 804,
@@ -3039,7 +3239,8 @@
       "it": "Kiev",
       "es": "Kiev"
     },
-    "population": 37860221
+    "population": 37860221,
+    "pop_year": "2024"
   },
   "807": {
     "id": 807,
@@ -3053,7 +3254,8 @@
       "it": "Skopje",
       "es": "Skopie"
     },
-    "population": 1824359
+    "population": 1824359,
+    "pop_year": "2024"
   },
   "818": {
     "id": 818,
@@ -3067,7 +3269,8 @@
       "it": "Il Cairo",
       "es": "El Cairo"
     },
-    "population": 116538258
+    "population": 116538258,
+    "pop_year": "2024"
   },
   "826": {
     "id": 826,
@@ -3081,7 +3284,8 @@
       "it": "Londra",
       "es": "Londres"
     },
-    "population": 69226000
+    "population": 69226000,
+    "pop_year": "2024"
   },
   "831": {
     "id": 831,
@@ -3111,7 +3315,8 @@
     "capital": {
       "en": "Douglas"
     },
-    "population": 84160
+    "population": 84160,
+    "pop_year": "2024"
   },
   "834": {
     "id": 834,
@@ -3125,7 +3330,8 @@
       "it": "Dodoma",
       "es": "Dodoma"
     },
-    "population": 68560157
+    "population": 68560157,
+    "pop_year": "2024"
   },
   "840": {
     "id": 840,
@@ -3139,7 +3345,8 @@
       "it": "Washington",
       "es": "Washington D. C."
     },
-    "population": 340110988
+    "population": 340110988,
+    "pop_year": "2024"
   },
   "850": {
     "id": 850,
@@ -3149,7 +3356,8 @@
     "capital": {
       "en": "Charlotte Amalie"
     },
-    "population": 104377
+    "population": 104377,
+    "pop_year": "2024"
   },
   "854": {
     "id": 854,
@@ -3163,7 +3371,8 @@
       "it": "Ouagadougou",
       "es": "Uagadugú"
     },
-    "population": 23548781
+    "population": 23548781,
+    "pop_year": "2024"
   },
   "858": {
     "id": 858,
@@ -3177,7 +3386,8 @@
       "it": "Montevideo",
       "es": "Montevideo"
     },
-    "population": 3386588
+    "population": 3386588,
+    "pop_year": "2024"
   },
   "860": {
     "id": 860,
@@ -3191,7 +3401,8 @@
       "it": "Tashkent",
       "es": "Taskent"
     },
-    "population": 36361859
+    "population": 36361859,
+    "pop_year": "2024"
   },
   "862": {
     "id": 862,
@@ -3205,7 +3416,8 @@
       "it": "Caracas",
       "es": "Caracas"
     },
-    "population": 28405543
+    "population": 28405543,
+    "pop_year": "2024"
   },
   "876": {
     "id": 876,
@@ -3229,7 +3441,8 @@
       "it": "Apia",
       "es": "Apia"
     },
-    "population": 218019
+    "population": 218019,
+    "pop_year": "2024"
   },
   "887": {
     "id": 887,
@@ -3243,7 +3456,8 @@
       "it": "Aden",
       "es": "Adén"
     },
-    "population": 40583164
+    "population": 40583164,
+    "pop_year": "2024"
   },
   "894": {
     "id": 894,
@@ -3257,76 +3471,7 @@
       "it": "Lusaka",
       "es": "Lusaka"
     },
-    "population": 21314956
-  },
-  "8260": {
-    "id": 8260,
-    "alpha2": "gb-eng",
-    "alpha3": "",
-    "name": "England",
-    "capital": {
-      "en": "London",
-      "fr": "Londres",
-      "de": "London",
-      "it": "Londra",
-      "es": "Londres"
-    },
-    "population": 56490048
-  },
-  "8261": {
-    "id": 8261,
-    "alpha2": "gb-sct",
-    "alpha3": "",
-    "name": "Scotland",
-    "capital": {
-      "en": "Edinburgh",
-      "fr": "Édimbourg",
-      "de": "Edinburgh",
-      "it": "Edimburgo",
-      "es": "Edimburgo"
-    },
-    "population": 5479000
-  },
-  "8262": {
-    "id": 8262,
-    "alpha2": "gb-wls",
-    "alpha3": "",
-    "name": "Wales",
-    "capital": {
-      "en": "Cardiff",
-      "de": "Cardiff",
-      "fr": "Cardiff",
-      "it": "Cardiff",
-      "es": "Cardiff"
-    },
-    "population": 3107500
-  },
-  "8263": {
-    "id": 8263,
-    "alpha2": "gb-nir",
-    "alpha3": "",
-    "name": "Northern Ireland",
-    "capital": {
-      "en": "Belfast",
-      "fr": "Belfast",
-      "de": "Belfast",
-      "it": "Belfast",
-      "es": "Belfast"
-    },
-    "population": 1903175
-  },
-  "383": {
-    "id": 383,
-    "alpha2": "xk",
-    "alpha3": "xkx",
-    "name": "Kosovo",
-    "capital": {
-      "en": "Pristina",
-      "fr": "Pristina",
-      "de": "Pristina",
-      "it": "Priština",
-      "es": "Pristina"
-    },
-    "population": 1762009
+    "population": 21314956,
+    "pop_year": "2024"
   }
 }

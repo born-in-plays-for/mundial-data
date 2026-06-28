@@ -16,6 +16,7 @@ This repo is included as a git submodule at `data/` in both [mundial](https://gi
 | `wc2026_gdp.json` | GDP total by country (World Bank) |
 | `wc2026_gdp_pc_ppp.json` | GDP per capita PPP by country (World Bank) |
 | `wc2026_hdi.json` | Human Development Index by country (UNDP) |
+| `wc2026_r32_teams.json` | 32 teams qualified for the Round of 32 (source: api-football.com) |
 
 ## Workflow
 

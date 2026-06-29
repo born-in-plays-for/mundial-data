@@ -3529,5 +3529,19 @@
       "es": "Belfast"
     },
     "population": 1903175
+  },
+  "383": {
+    "id": 383,
+    "alpha2": "xk",
+    "alpha3": "xkx",
+    "name": "Kosovo",
+    "capital": {
+      "en": "Pristina",
+      "fr": "Pristina",
+      "de": "Pristina",
+      "it": "Priština",
+      "es": "Pristina"
+    },
+    "population": 1762009
   }
 }

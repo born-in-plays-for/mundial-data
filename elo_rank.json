@@ -267,7 +267,7 @@
       "rank": 29,
       "id": 643,
       "iso2": "ru",
-      "name": "Russian Federation",
+      "name": "Russia",
       "pts": 1772,
       "fifaMember": true,
       "weirdo": false
@@ -285,7 +285,7 @@
       "rank": 31,
       "id": 364,
       "iso2": "ir",
-      "name": "Iran, Islamic Republic of",
+      "name": "Iran",
       "pts": 1764,
       "fifaMember": true,
       "weirdo": false
@@ -339,7 +339,7 @@
       "rank": 37,
       "id": 862,
       "iso2": "ve",
-      "name": "Venezuela, Bolivarian Republic of",
+      "name": "Venezuela",
       "pts": 1733,
       "fifaMember": true,
       "weirdo": false
@@ -357,7 +357,7 @@
       "rank": 39,
       "id": 384,
       "iso2": "ci",
-      "name": "Côte d'Ivoire",
+      "name": "Ivory Coast",
       "pts": 1727,
       "fifaMember": true,
       "weirdo": false
@@ -366,7 +366,7 @@
       "rank": 40,
       "id": 410,
       "iso2": "kr",
-      "name": "Korea, Republic of",
+      "name": "South Korea",
       "pts": 1723,
       "fifaMember": true,
       "weirdo": false
@@ -384,7 +384,7 @@
       "rank": 43,
       "id": 180,
       "iso2": "cd",
-      "name": "Congo, The Democratic Republic of the",
+      "name": "DR Congo",
       "pts": 1712,
       "fifaMember": true,
       "weirdo": false
@@ -528,7 +528,7 @@
       "rank": 58,
       "id": 132,
       "iso2": "cv",
-      "name": "Cabo Verde",
+      "name": "Cape Verde",
       "pts": 1622,
       "fifaMember": true,
       "weirdo": false
@@ -537,7 +537,7 @@
       "rank": 60,
       "id": 68,
       "iso2": "bo",
-      "name": "Bolivia, Plurinational State of",
+      "name": "Bolivia",
       "pts": 1621,
       "fifaMember": true,
       "weirdo": false
@@ -753,7 +753,7 @@
       "rank": 84,
       "id": 760,
       "iso2": "sy",
-      "name": "Syrian Arab Republic",
+      "name": "Syria",
       "pts": 1479,
       "fifaMember": true,
       "weirdo": false
@@ -762,7 +762,7 @@
       "rank": 85,
       "id": 275,
       "iso2": "ps",
-      "name": "Palestine, State of",
+      "name": "Palestine",
       "pts": 1465,
       "fifaMember": true,
       "weirdo": false
@@ -987,7 +987,7 @@
       "rank": 110,
       "id": 408,
       "iso2": "kp",
-      "name": "Korea, Democratic People's Republic of",
+      "name": "North Korea",
       "pts": 1375,
       "fifaMember": true,
       "weirdo": false
@@ -1059,7 +1059,7 @@
       "rank": 118,
       "id": 704,
       "iso2": "vn",
-      "name": "Viet Nam",
+      "name": "Vietnam",
       "pts": 1351,
       "fifaMember": true,
       "weirdo": false
@@ -1185,7 +1185,7 @@
       "rank": 132,
       "id": 834,
       "iso2": "tz",
-      "name": "Tanzania, United Republic of",
+      "name": "Tanzania",
       "pts": 1313,
       "fifaMember": true,
       "weirdo": false
@@ -1320,7 +1320,7 @@
       "rank": 147,
       "id": 498,
       "iso2": "md",
-      "name": "Moldova, Republic of",
+      "name": "Moldova",
       "pts": 1270,
       "fifaMember": true,
       "weirdo": false
@@ -1617,7 +1617,7 @@
       "rank": 180,
       "id": 663,
       "iso2": "mf",
-      "name": "Saint Martin (French part)",
+      "name": "Saint Martin",
       "pts": 1042,
       "fifaMember": false,
       "weirdo": false
@@ -1626,7 +1626,7 @@
       "rank": 181,
       "id": 678,
       "iso2": "st",
-      "name": "Sao Tome and Principe",
+      "name": "São Tomé and Príncipe",
       "pts": 1035,
       "fifaMember": true,
       "weirdo": false
@@ -1707,7 +1707,7 @@
       "rank": 190,
       "id": 534,
       "iso2": "sx",
-      "name": "Sint Maarten (Dutch part)",
+      "name": "Sint Maarten",
       "pts": 975,
       "fifaMember": false,
       "weirdo": false
@@ -1860,7 +1860,7 @@
       "rank": 207,
       "id": 158,
       "iso2": "tw",
-      "name": "Taiwan, Province of China",
+      "name": "Taiwan",
       "pts": 822,
       "fifaMember": true,
       "weirdo": false
@@ -1869,7 +1869,7 @@
       "rank": 208,
       "id": 535,
       "iso2": "bq",
-      "name": "Bonaire, Sint Eustatius and Saba",
+      "name": "Caribbean Netherlands",
       "pts": 817,
       "fifaMember": false,
       "weirdo": false
@@ -1914,7 +1914,7 @@
       "rank": 213,
       "id": 92,
       "iso2": "vg",
-      "name": "Virgin Islands, British",
+      "name": "British Virgin Islands",
       "pts": 743,
       "fifaMember": true,
       "weirdo": false
@@ -1932,7 +1932,7 @@
       "rank": 215,
       "id": 418,
       "iso2": "la",
-      "name": "Lao People's Democratic Republic",
+      "name": "Laos",
       "pts": 734,
       "fifaMember": true,
       "weirdo": false
@@ -1995,7 +1995,7 @@
       "rank": 222,
       "id": 336,
       "iso2": "va",
-      "name": "Holy See (Vatican City State)",
+      "name": "Vatican City",
       "pts": 692,
       "fifaMember": false,
       "weirdo": false
@@ -2058,7 +2058,7 @@
       "rank": 229,
       "id": 850,
       "iso2": "vi",
-      "name": "Virgin Islands, U.S.",
+      "name": "United States Virgin Islands",
       "pts": 628,
       "fifaMember": true,
       "weirdo": false
@@ -2085,7 +2085,7 @@
       "rank": 232,
       "id": 446,
       "iso2": "mo",
-      "name": "Macao",
+      "name": "Macau",
       "pts": 589,
       "fifaMember": true,
       "weirdo": false
@@ -2103,7 +2103,7 @@
       "rank": 234,
       "id": 96,
       "iso2": "bn",
-      "name": "Brunei Darussalam",
+      "name": "Brunei",
       "pts": 572,
       "fifaMember": true,
       "weirdo": false
@@ -2112,7 +2112,7 @@
       "rank": 235,
       "id": 238,
       "iso2": "fk",
-      "name": "Falkland Islands (Malvinas)",
+      "name": "Falkland Islands",
       "pts": 571,
       "fifaMember": false,
       "weirdo": false
@@ -2121,7 +2121,7 @@
       "rank": 236,
       "id": 583,
       "iso2": "fm",
-      "name": "Micronesia, Federated States of",
+      "name": "Micronesia",
       "pts": 564,
       "fifaMember": false,
       "weirdo": false

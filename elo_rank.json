@@ -238,19 +238,19 @@
     },
     {
       "rank": 26,
-      "id": 12,
-      "iso2": "dz",
-      "name": "Algeria",
-      "pts": 1785,
+      "id": 840,
+      "iso2": "us",
+      "name": "United States",
+      "pts": 1798,
       "fifaMember": true,
       "weirdo": false
     },
     {
       "rank": 27,
-      "id": 840,
-      "iso2": "us",
-      "name": "United States",
-      "pts": 1781,
+      "id": 12,
+      "iso2": "dz",
+      "name": "Algeria",
+      "pts": 1785,
       "fifaMember": true,
       "weirdo": false
     },
@@ -517,15 +517,6 @@
     },
     {
       "rank": 58,
-      "id": 70,
-      "iso2": "ba",
-      "name": "Bosnia and Herzegovina",
-      "pts": 1622,
-      "fifaMember": true,
-      "weirdo": false
-    },
-    {
-      "rank": 58,
       "id": 132,
       "iso2": "cv",
       "name": "Cape Verde",
@@ -534,7 +525,7 @@
       "weirdo": false
     },
     {
-      "rank": 60,
+      "rank": 59,
       "id": 68,
       "iso2": "bo",
       "name": "Bolivia",
@@ -543,7 +534,7 @@
       "weirdo": false
     },
     {
-      "rank": 61,
+      "rank": 60,
       "id": 8,
       "iso2": "al",
       "name": "Albania",
@@ -552,7 +543,7 @@
       "weirdo": false
     },
     {
-      "rank": 62,
+      "rank": 61,
       "id": 120,
       "iso2": "cm",
       "name": "Cameroon",
@@ -561,7 +552,7 @@
       "weirdo": false
     },
     {
-      "rank": 63,
+      "rank": 62,
       "id": 188,
       "iso2": "cr",
       "name": "Costa Rica",
@@ -570,10 +561,19 @@
       "weirdo": false
     },
     {
-      "rank": 64,
+      "rank": 63,
       "id": 8263,
       "iso2": "gb-nir",
       "name": "Northern Ireland",
+      "pts": 1605,
+      "fifaMember": true,
+      "weirdo": false
+    },
+    {
+      "rank": 63,
+      "id": 70,
+      "iso2": "ba",
+      "name": "Bosnia and Herzegovina",
       "pts": 1605,
       "fifaMember": true,
       "weirdo": false

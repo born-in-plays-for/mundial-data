@@ -1,6 +1,6 @@
 {
   "source": "eloratings.net",
-  "updated": "2026-07-01",
+  "updated": "2026-07-02",
   "stats": {
     "total": 244,
     "fifaMembers": 211,
@@ -43,7 +43,7 @@
       "id": 8260,
       "iso2": "gb-eng",
       "name": "England",
-      "pts": 2038,
+      "pts": 2046,
       "fifaMember": true,
       "weirdo": false
     },
@@ -112,6 +112,15 @@
     },
     {
       "rank": 12,
+      "id": 56,
+      "iso2": "be",
+      "name": "Belgium",
+      "pts": 1910,
+      "fifaMember": true,
+      "weirdo": false
+    },
+    {
+      "rank": 13,
       "id": 276,
       "iso2": "de",
       "name": "Germany",
@@ -120,7 +129,7 @@
       "weirdo": false
     },
     {
-      "rank": 13,
+      "rank": 14,
       "id": 191,
       "iso2": "hr",
       "name": "Croatia",
@@ -129,7 +138,7 @@
       "weirdo": false
     },
     {
-      "rank": 14,
+      "rank": 15,
       "id": 392,
       "iso2": "jp",
       "name": "Japan",
@@ -138,20 +147,11 @@
       "weirdo": false
     },
     {
-      "rank": 15,
+      "rank": 16,
       "id": 504,
       "iso2": "ma",
       "name": "Morocco",
       "pts": 1886,
-      "fifaMember": true,
-      "weirdo": false
-    },
-    {
-      "rank": 16,
-      "id": 56,
-      "iso2": "be",
-      "name": "Belgium",
-      "pts": 1884,
       "fifaMember": true,
       "weirdo": false
     },
@@ -193,15 +193,6 @@
     },
     {
       "rank": 21,
-      "id": 686,
-      "iso2": "sn",
-      "name": "Senegal",
-      "pts": 1842,
-      "fifaMember": true,
-      "weirdo": false
-    },
-    {
-      "rank": 22,
       "id": 858,
       "iso2": "uy",
       "name": "Uruguay",
@@ -210,7 +201,7 @@
       "weirdo": false
     },
     {
-      "rank": 23,
+      "rank": 22,
       "id": 40,
       "iso2": "at",
       "name": "Austria",
@@ -219,11 +210,20 @@
       "weirdo": false
     },
     {
-      "rank": 24,
+      "rank": 23,
       "id": 600,
       "iso2": "py",
       "name": "Paraguay",
       "pts": 1823,
+      "fifaMember": true,
+      "weirdo": false
+    },
+    {
+      "rank": 24,
+      "id": 686,
+      "iso2": "sn",
+      "name": "Senegal",
+      "pts": 1816,
       "fifaMember": true,
       "weirdo": false
     },
@@ -382,15 +382,6 @@
     },
     {
       "rank": 43,
-      "id": 180,
-      "iso2": "cd",
-      "name": "DR Congo",
-      "pts": 1712,
-      "fifaMember": true,
-      "weirdo": false
-    },
-    {
-      "rank": 44,
       "id": 348,
       "iso2": "hu",
       "name": "Hungary",
@@ -399,11 +390,20 @@
       "weirdo": false
     },
     {
-      "rank": 44,
+      "rank": 43,
       "id": 616,
       "iso2": "pl",
       "name": "Poland",
       "pts": 1710,
+      "fifaMember": true,
+      "weirdo": false
+    },
+    {
+      "rank": 45,
+      "id": 180,
+      "iso2": "cd",
+      "name": "DR Congo",
+      "pts": 1704,
       "fifaMember": true,
       "weirdo": false
     },

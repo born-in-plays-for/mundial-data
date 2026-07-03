@@ -1,6 +1,6 @@
 {
   "source": "eloratings.net",
-  "updated": "2026-07-02",
+  "updated": "2026-07-03",
   "stats": {
     "total": 244,
     "fifaMembers": 211,
@@ -13,19 +13,19 @@
   "rankings": [
     {
       "rank": 1,
-      "id": 32,
-      "iso2": "ar",
-      "name": "Argentina",
-      "pts": 2148,
+      "id": 724,
+      "iso2": "es",
+      "name": "Spain",
+      "pts": 2159,
       "fifaMember": true,
       "weirdo": false
     },
     {
       "rank": 2,
-      "id": 724,
-      "iso2": "es",
-      "name": "Spain",
-      "pts": 2144,
+      "id": 32,
+      "iso2": "ar",
+      "name": "Argentina",
+      "pts": 2148,
       "fifaMember": true,
       "weirdo": false
     },
@@ -58,19 +58,19 @@
     },
     {
       "rank": 6,
-      "id": 170,
-      "iso2": "co",
-      "name": "Colombia",
-      "pts": 2004,
+      "id": 620,
+      "iso2": "pt",
+      "name": "Portugal",
+      "pts": 2013,
       "fifaMember": true,
       "weirdo": false
     },
     {
       "rank": 7,
-      "id": 620,
-      "iso2": "pt",
-      "name": "Portugal",
-      "pts": 1990,
+      "id": 170,
+      "iso2": "co",
+      "name": "Colombia",
+      "pts": 2004,
       "fifaMember": true,
       "weirdo": false
     },
@@ -130,15 +130,6 @@
     },
     {
       "rank": 14,
-      "id": 191,
-      "iso2": "hr",
-      "name": "Croatia",
-      "pts": 1905,
-      "fifaMember": true,
-      "weirdo": false
-    },
-    {
-      "rank": 15,
       "id": 392,
       "iso2": "jp",
       "name": "Japan",
@@ -147,11 +138,20 @@
       "weirdo": false
     },
     {
-      "rank": 16,
+      "rank": 15,
       "id": 504,
       "iso2": "ma",
       "name": "Morocco",
       "pts": 1886,
+      "fifaMember": true,
+      "weirdo": false
+    },
+    {
+      "rank": 16,
+      "id": 191,
+      "iso2": "hr",
+      "name": "Croatia",
+      "pts": 1882,
       "fifaMember": true,
       "weirdo": false
     },
@@ -202,19 +202,19 @@
     },
     {
       "rank": 22,
-      "id": 40,
-      "iso2": "at",
-      "name": "Austria",
-      "pts": 1836,
+      "id": 600,
+      "iso2": "py",
+      "name": "Paraguay",
+      "pts": 1823,
       "fifaMember": true,
       "weirdo": false
     },
     {
       "rank": 23,
-      "id": 600,
-      "iso2": "py",
-      "name": "Paraguay",
-      "pts": 1823,
+      "id": 40,
+      "iso2": "at",
+      "name": "Austria",
+      "pts": 1821,
       "fifaMember": true,
       "weirdo": false
     },

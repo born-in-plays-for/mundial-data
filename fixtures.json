@@ -1080,12 +1080,12 @@
       "id": 1567824,
       "date": "2026-07-04T17:00:00+00:00",
       "round": "Round of 16",
-      "status": "NS",
+      "status": "FT",
       "home": "ca",
       "away": "ma",
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 3
       }
     },
     {

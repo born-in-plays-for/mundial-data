@@ -12,7 +12,8 @@
       "goals": {
         "home": 2,
         "away": 0
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1538999,
@@ -24,7 +25,8 @@
       "goals": {
         "home": 2,
         "away": 1
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1539000,
@@ -36,7 +38,8 @@
       "goals": {
         "home": 1,
         "away": 1
-      }
+      },
+      "winner": null
     },
     {
       "id": 1489370,
@@ -48,7 +51,8 @@
       "goals": {
         "home": 4,
         "away": 1
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1489373,
@@ -60,7 +64,8 @@
       "goals": {
         "home": 1,
         "away": 1
-      }
+      },
+      "winner": null
     },
     {
       "id": 1489371,
@@ -72,7 +77,8 @@
       "goals": {
         "home": 1,
         "away": 1
-      }
+      },
+      "winner": null
     },
     {
       "id": 1489372,
@@ -84,7 +90,8 @@
       "goals": {
         "home": 0,
         "away": 1
-      }
+      },
+      "winner": "away"
     },
     {
       "id": 1539001,
@@ -96,7 +103,8 @@
       "goals": {
         "home": 2,
         "away": 0
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1489374,
@@ -108,7 +116,8 @@
       "goals": {
         "home": 7,
         "away": 1
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1489376,
@@ -120,7 +129,8 @@
       "goals": {
         "home": 2,
         "away": 2
-      }
+      },
+      "winner": null
     },
     {
       "id": 1489375,
@@ -132,7 +142,8 @@
       "goals": {
         "home": 1,
         "away": 0
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1539002,
@@ -144,7 +155,8 @@
       "goals": {
         "home": 5,
         "away": 1
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1489380,
@@ -156,7 +168,8 @@
       "goals": {
         "home": 0,
         "away": 0
-      }
+      },
+      "winner": null
     },
     {
       "id": 1489377,
@@ -168,7 +181,8 @@
       "goals": {
         "home": 1,
         "away": 1
-      }
+      },
+      "winner": null
     },
     {
       "id": 1489379,
@@ -180,7 +194,8 @@
       "goals": {
         "home": 1,
         "away": 1
-      }
+      },
+      "winner": null
     },
     {
       "id": 1489378,
@@ -192,7 +207,8 @@
       "goals": {
         "home": 2,
         "away": 2
-      }
+      },
+      "winner": null
     },
     {
       "id": 1489383,
@@ -204,7 +220,8 @@
       "goals": {
         "home": 3,
         "away": 1
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1539016,
@@ -216,7 +233,8 @@
       "goals": {
         "home": 1,
         "away": 4
-      }
+      },
+      "winner": "away"
     },
     {
       "id": 1489381,
@@ -228,7 +246,8 @@
       "goals": {
         "home": 3,
         "away": 0
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1489382,
@@ -240,7 +259,8 @@
       "goals": {
         "home": 3,
         "away": 1
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1539003,
@@ -252,7 +272,8 @@
       "goals": {
         "home": 1,
         "away": 1
-      }
+      },
+      "winner": null
     },
     {
       "id": 1489384,
@@ -264,7 +285,8 @@
       "goals": {
         "home": 4,
         "away": 2
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1489385,
@@ -276,7 +298,8 @@
       "goals": {
         "home": 1,
         "away": 0
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1489386,
@@ -288,7 +311,8 @@
       "goals": {
         "home": 1,
         "away": 3
-      }
+      },
+      "winner": "away"
     },
     {
       "id": 1539004,
@@ -300,7 +324,8 @@
       "goals": {
         "home": 1,
         "away": 1
-      }
+      },
+      "winner": null
     },
     {
       "id": 1539005,
@@ -312,7 +337,8 @@
       "goals": {
         "home": 4,
         "away": 1
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1489387,
@@ -324,7 +350,8 @@
       "goals": {
         "home": 6,
         "away": 0
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1489388,
@@ -336,7 +363,8 @@
       "goals": {
         "home": 1,
         "away": 0
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1489391,
@@ -348,7 +376,8 @@
       "goals": {
         "home": 2,
         "away": 0
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1489390,
@@ -360,7 +389,8 @@
       "goals": {
         "home": 0,
         "away": 1
-      }
+      },
+      "winner": "away"
     },
     {
       "id": 1489389,
@@ -372,7 +402,8 @@
       "goals": {
         "home": 3,
         "away": 0
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1539006,
@@ -384,7 +415,8 @@
       "goals": {
         "home": 0,
         "away": 1
-      }
+      },
+      "winner": "away"
     },
     {
       "id": 1539007,
@@ -396,7 +428,8 @@
       "goals": {
         "home": 5,
         "away": 1
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1489393,
@@ -408,7 +441,8 @@
       "goals": {
         "home": 2,
         "away": 1
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1489392,
@@ -420,7 +454,8 @@
       "goals": {
         "home": 0,
         "away": 0
-      }
+      },
+      "winner": null
     },
     {
       "id": 1489394,
@@ -432,7 +467,8 @@
       "goals": {
         "home": 0,
         "away": 4
-      }
+      },
+      "winner": "away"
     },
     {
       "id": 1489397,
@@ -444,7 +480,8 @@
       "goals": {
         "home": 4,
         "away": 0
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1489395,
@@ -456,7 +493,8 @@
       "goals": {
         "home": 0,
         "away": 0
-      }
+      },
+      "winner": null
     },
     {
       "id": 1489398,
@@ -468,7 +506,8 @@
       "goals": {
         "home": 2,
         "away": 2
-      }
+      },
+      "winner": null
     },
     {
       "id": 1489396,
@@ -480,7 +519,8 @@
       "goals": {
         "home": 1,
         "away": 3
-      }
+      },
+      "winner": "away"
     },
     {
       "id": 1489399,
@@ -492,7 +532,8 @@
       "goals": {
         "home": 2,
         "away": 0
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1539017,
@@ -504,7 +545,8 @@
       "goals": {
         "home": 3,
         "away": 0
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1489401,
@@ -516,7 +558,8 @@
       "goals": {
         "home": 3,
         "away": 2
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1489400,
@@ -528,7 +571,8 @@
       "goals": {
         "home": 1,
         "away": 2
-      }
+      },
+      "winner": "away"
     },
     {
       "id": 1489404,
@@ -540,7 +584,8 @@
       "goals": {
         "home": 5,
         "away": 0
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1489402,
@@ -552,7 +597,8 @@
       "goals": {
         "home": 0,
         "away": 0
-      }
+      },
+      "winner": null
     },
     {
       "id": 1489403,
@@ -564,7 +610,8 @@
       "goals": {
         "home": 0,
         "away": 1
-      }
+      },
+      "winner": "away"
     },
     {
       "id": 1539008,
@@ -576,7 +623,8 @@
       "goals": {
         "home": 1,
         "away": 0
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1489408,
@@ -588,7 +636,8 @@
       "goals": {
         "home": 2,
         "away": 1
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1539009,
@@ -600,7 +649,8 @@
       "goals": {
         "home": 3,
         "away": 1
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1489405,
@@ -612,7 +662,8 @@
       "goals": {
         "home": 4,
         "away": 2
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1489406,
@@ -624,7 +675,8 @@
       "goals": {
         "home": 0,
         "away": 3
-      }
+      },
+      "winner": "away"
     },
     {
       "id": 1539010,
@@ -636,7 +688,8 @@
       "goals": {
         "home": 0,
         "away": 3
-      }
+      },
+      "winner": "away"
     },
     {
       "id": 1489407,
@@ -648,7 +701,8 @@
       "goals": {
         "home": 1,
         "away": 0
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1489410,
@@ -660,7 +714,8 @@
       "goals": {
         "home": 2,
         "away": 1
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1489409,
@@ -672,7 +727,8 @@
       "goals": {
         "home": 0,
         "away": 2
-      }
+      },
+      "winner": "away"
     },
     {
       "id": 1539011,
@@ -684,7 +740,8 @@
       "goals": {
         "home": 1,
         "away": 1
-      }
+      },
+      "winner": null
     },
     {
       "id": 1489412,
@@ -696,7 +753,8 @@
       "goals": {
         "home": 1,
         "away": 3
-      }
+      },
+      "winner": "away"
     },
     {
       "id": 1539012,
@@ -708,7 +766,8 @@
       "goals": {
         "home": 3,
         "away": 2
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1489411,
@@ -720,7 +779,8 @@
       "goals": {
         "home": 0,
         "away": 0
-      }
+      },
+      "winner": null
     },
     {
       "id": 1539074,
@@ -732,7 +792,8 @@
       "goals": {
         "home": 5,
         "away": 0
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1489416,
@@ -744,7 +805,8 @@
       "goals": {
         "home": 1,
         "away": 4
-      }
+      },
+      "winner": "away"
     },
     {
       "id": 1489417,
@@ -756,7 +818,8 @@
       "goals": {
         "home": 0,
         "away": 1
-      }
+      },
+      "winner": "away"
     },
     {
       "id": 1489413,
@@ -768,7 +831,8 @@
       "goals": {
         "home": 0,
         "away": 0
-      }
+      },
+      "winner": null
     },
     {
       "id": 1489414,
@@ -780,7 +844,8 @@
       "goals": {
         "home": 1,
         "away": 1
-      }
+      },
+      "winner": null
     },
     {
       "id": 1489415,
@@ -792,7 +857,8 @@
       "goals": {
         "home": 1,
         "away": 5
-      }
+      },
+      "winner": "away"
     },
     {
       "id": 1489420,
@@ -804,7 +870,8 @@
       "goals": {
         "home": 2,
         "away": 1
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1489422,
@@ -816,7 +883,8 @@
       "goals": {
         "home": 0,
         "away": 2
-      }
+      },
+      "winner": "away"
     },
     {
       "id": 1489419,
@@ -828,7 +896,8 @@
       "goals": {
         "home": 0,
         "away": 0
-      }
+      },
+      "winner": null
     },
     {
       "id": 1539013,
@@ -840,7 +909,8 @@
       "goals": {
         "home": 3,
         "away": 1
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1489418,
@@ -852,7 +922,8 @@
       "goals": {
         "home": 3,
         "away": 3
-      }
+      },
+      "winner": null
     },
     {
       "id": 1489421,
@@ -864,7 +935,8 @@
       "goals": {
         "home": 1,
         "away": 3
-      }
+      },
+      "winner": "away"
     },
     {
       "id": 1561329,
@@ -876,7 +948,8 @@
       "goals": {
         "home": 0,
         "away": 1
-      }
+      },
+      "winner": "away"
     },
     {
       "id": 1562344,
@@ -888,7 +961,8 @@
       "goals": {
         "home": 2,
         "away": 1
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1565176,
@@ -901,6 +975,7 @@
         "home": 1,
         "away": 1
       },
+      "winner": "away",
       "score": {
         "penalty": {
           "home": 3,
@@ -919,6 +994,7 @@
         "home": 1,
         "away": 1
       },
+      "winner": "away",
       "score": {
         "penalty": {
           "home": 2,
@@ -936,7 +1012,8 @@
       "goals": {
         "home": 1,
         "away": 2
-      }
+      },
+      "winner": "away"
     },
     {
       "id": 1565177,
@@ -948,7 +1025,8 @@
       "goals": {
         "home": 3,
         "away": 0
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1567306,
@@ -960,7 +1038,8 @@
       "goals": {
         "home": 2,
         "away": 0
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1567307,
@@ -972,7 +1051,8 @@
       "goals": {
         "home": 2,
         "away": 1
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1567308,
@@ -984,7 +1064,8 @@
       "goals": {
         "home": 3,
         "away": 2
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1562586,
@@ -996,7 +1077,8 @@
       "goals": {
         "home": 2,
         "away": 0
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1567311,
@@ -1008,7 +1090,8 @@
       "goals": {
         "home": 3,
         "away": 0
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1567309,
@@ -1020,7 +1103,8 @@
       "goals": {
         "home": 2,
         "away": 1
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1567312,
@@ -1032,7 +1116,8 @@
       "goals": {
         "home": 2,
         "away": 0
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1565178,
@@ -1045,6 +1130,7 @@
         "home": 1,
         "away": 1
       },
+      "winner": "away",
       "score": {
         "penalty": {
           "home": 2,
@@ -1062,7 +1148,8 @@
       "goals": {
         "home": 3,
         "away": 2
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1567310,
@@ -1074,7 +1161,8 @@
       "goals": {
         "home": 1,
         "away": 0
-      }
+      },
+      "winner": "home"
     },
     {
       "id": 1567824,
@@ -1086,7 +1174,8 @@
       "goals": {
         "home": 0,
         "away": 3
-      }
+      },
+      "winner": "away"
     },
     {
       "id": 1569870,
@@ -1098,7 +1187,8 @@
       "goals": {
         "home": null,
         "away": null
-      }
+      },
+      "winner": null
     },
     {
       "id": 1568100,
@@ -1110,7 +1200,8 @@
       "goals": {
         "home": null,
         "away": null
-      }
+      },
+      "winner": null
     },
     {
       "id": 1570714,
@@ -1122,7 +1213,8 @@
       "goals": {
         "home": null,
         "away": null
-      }
+      },
+      "winner": null
     },
     {
       "id": 1576756,
@@ -1134,7 +1226,8 @@
       "goals": {
         "home": null,
         "away": null
-      }
+      },
+      "winner": null
     },
     {
       "id": 1570715,
@@ -1146,7 +1239,8 @@
       "goals": {
         "home": null,
         "away": null
-      }
+      },
+      "winner": null
     },
     {
       "id": 1576804,
@@ -1158,7 +1252,8 @@
       "goals": {
         "home": null,
         "away": null
-      }
+      },
+      "winner": null
     },
     {
       "id": 1576805,
@@ -1170,7 +1265,8 @@
       "goals": {
         "home": null,
         "away": null
-      }
+      },
+      "winner": null
     }
   ]
 }

@@ -1,0 +1,1158 @@
+{
+  "source": "api-football.com",
+  "updated": "2026-07-04",
+  "fixtures": [
+    {
+      "id": 1489369,
+      "date": "2026-06-11T19:00:00+00:00",
+      "round": "Group Stage - 1",
+      "status": "FT",
+      "home": "mx",
+      "away": "za",
+      "goals": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": 1538999,
+      "date": "2026-06-12T02:00:00+00:00",
+      "round": "Group Stage - 1",
+      "status": "FT",
+      "home": "kr",
+      "away": "cz",
+      "goals": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": 1539000,
+      "date": "2026-06-12T19:00:00+00:00",
+      "round": "Group Stage - 1",
+      "status": "FT",
+      "home": "ca",
+      "away": "ba",
+      "goals": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": 1489370,
+      "date": "2026-06-13T01:00:00+00:00",
+      "round": "Group Stage - 1",
+      "status": "FT",
+      "home": "us",
+      "away": "py",
+      "goals": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": 1489373,
+      "date": "2026-06-13T19:00:00+00:00",
+      "round": "Group Stage - 1",
+      "status": "FT",
+      "home": "qa",
+      "away": "ch",
+      "goals": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": 1489371,
+      "date": "2026-06-13T22:00:00+00:00",
+      "round": "Group Stage - 1",
+      "status": "FT",
+      "home": "br",
+      "away": "ma",
+      "goals": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": 1489372,
+      "date": "2026-06-14T01:00:00+00:00",
+      "round": "Group Stage - 1",
+      "status": "FT",
+      "home": "ht",
+      "away": "gb-sct",
+      "goals": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": 1539001,
+      "date": "2026-06-14T04:00:00+00:00",
+      "round": "Group Stage - 1",
+      "status": "FT",
+      "home": "au",
+      "away": "tr",
+      "goals": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": 1489374,
+      "date": "2026-06-14T17:00:00+00:00",
+      "round": "Group Stage - 1",
+      "status": "FT",
+      "home": "de",
+      "away": "cw",
+      "goals": {
+        "home": 7,
+        "away": 1
+      }
+    },
+    {
+      "id": 1489376,
+      "date": "2026-06-14T20:00:00+00:00",
+      "round": "Group Stage - 1",
+      "status": "FT",
+      "home": "nl",
+      "away": "jp",
+      "goals": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": 1489375,
+      "date": "2026-06-14T23:00:00+00:00",
+      "round": "Group Stage - 1",
+      "status": "FT",
+      "home": "ci",
+      "away": "ec",
+      "goals": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": 1539002,
+      "date": "2026-06-15T02:00:00+00:00",
+      "round": "Group Stage - 1",
+      "status": "FT",
+      "home": "se",
+      "away": "tn",
+      "goals": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": 1489380,
+      "date": "2026-06-15T16:00:00+00:00",
+      "round": "Group Stage - 1",
+      "status": "FT",
+      "home": "es",
+      "away": "cv",
+      "goals": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": 1489377,
+      "date": "2026-06-15T19:00:00+00:00",
+      "round": "Group Stage - 1",
+      "status": "FT",
+      "home": "be",
+      "away": "eg",
+      "goals": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": 1489379,
+      "date": "2026-06-15T22:00:00+00:00",
+      "round": "Group Stage - 1",
+      "status": "FT",
+      "home": "sa",
+      "away": "uy",
+      "goals": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": 1489378,
+      "date": "2026-06-16T01:00:00+00:00",
+      "round": "Group Stage - 1",
+      "status": "FT",
+      "home": "ir",
+      "away": "nz",
+      "goals": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": 1489383,
+      "date": "2026-06-16T19:00:00+00:00",
+      "round": "Group Stage - 1",
+      "status": "FT",
+      "home": "fr",
+      "away": "sn",
+      "goals": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": 1539016,
+      "date": "2026-06-16T22:00:00+00:00",
+      "round": "Group Stage - 1",
+      "status": "FT",
+      "home": "iq",
+      "away": "no",
+      "goals": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": 1489381,
+      "date": "2026-06-17T01:00:00+00:00",
+      "round": "Group Stage - 1",
+      "status": "FT",
+      "home": "ar",
+      "away": "dz",
+      "goals": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": 1489382,
+      "date": "2026-06-17T04:00:00+00:00",
+      "round": "Group Stage - 1",
+      "status": "FT",
+      "home": "at",
+      "away": "jo",
+      "goals": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": 1539003,
+      "date": "2026-06-17T17:00:00+00:00",
+      "round": "Group Stage - 1",
+      "status": "FT",
+      "home": "pt",
+      "away": "cd",
+      "goals": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": 1489384,
+      "date": "2026-06-17T20:00:00+00:00",
+      "round": "Group Stage - 1",
+      "status": "FT",
+      "home": "gb-eng",
+      "away": "hr",
+      "goals": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": 1489385,
+      "date": "2026-06-17T23:00:00+00:00",
+      "round": "Group Stage - 1",
+      "status": "FT",
+      "home": "gh",
+      "away": "pa",
+      "goals": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": 1489386,
+      "date": "2026-06-18T02:00:00+00:00",
+      "round": "Group Stage - 1",
+      "status": "FT",
+      "home": "uz",
+      "away": "co",
+      "goals": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": 1539004,
+      "date": "2026-06-18T16:00:00+00:00",
+      "round": "Group Stage - 2",
+      "status": "FT",
+      "home": "cz",
+      "away": "za",
+      "goals": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": 1539005,
+      "date": "2026-06-18T19:00:00+00:00",
+      "round": "Group Stage - 2",
+      "status": "FT",
+      "home": "ch",
+      "away": "ba",
+      "goals": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": 1489387,
+      "date": "2026-06-18T22:00:00+00:00",
+      "round": "Group Stage - 2",
+      "status": "FT",
+      "home": "ca",
+      "away": "qa",
+      "goals": {
+        "home": 6,
+        "away": 0
+      }
+    },
+    {
+      "id": 1489388,
+      "date": "2026-06-19T01:00:00+00:00",
+      "round": "Group Stage - 2",
+      "status": "FT",
+      "home": "mx",
+      "away": "kr",
+      "goals": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": 1489391,
+      "date": "2026-06-19T19:00:00+00:00",
+      "round": "Group Stage - 2",
+      "status": "FT",
+      "home": "us",
+      "away": "au",
+      "goals": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": 1489390,
+      "date": "2026-06-19T22:00:00+00:00",
+      "round": "Group Stage - 2",
+      "status": "FT",
+      "home": "gb-sct",
+      "away": "ma",
+      "goals": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": 1489389,
+      "date": "2026-06-20T00:30:00+00:00",
+      "round": "Group Stage - 2",
+      "status": "FT",
+      "home": "br",
+      "away": "ht",
+      "goals": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": 1539006,
+      "date": "2026-06-20T03:00:00+00:00",
+      "round": "Group Stage - 2",
+      "status": "FT",
+      "home": "tr",
+      "away": "py",
+      "goals": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": 1539007,
+      "date": "2026-06-20T17:00:00+00:00",
+      "round": "Group Stage - 2",
+      "status": "FT",
+      "home": "nl",
+      "away": "se",
+      "goals": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": 1489393,
+      "date": "2026-06-20T20:00:00+00:00",
+      "round": "Group Stage - 2",
+      "status": "FT",
+      "home": "de",
+      "away": "ci",
+      "goals": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": 1489392,
+      "date": "2026-06-21T00:00:00+00:00",
+      "round": "Group Stage - 2",
+      "status": "FT",
+      "home": "ec",
+      "away": "cw",
+      "goals": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": 1489394,
+      "date": "2026-06-21T04:00:00+00:00",
+      "round": "Group Stage - 2",
+      "status": "FT",
+      "home": "tn",
+      "away": "jp",
+      "goals": {
+        "home": 0,
+        "away": 4
+      }
+    },
+    {
+      "id": 1489397,
+      "date": "2026-06-21T16:00:00+00:00",
+      "round": "Group Stage - 2",
+      "status": "FT",
+      "home": "es",
+      "away": "sa",
+      "goals": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": 1489395,
+      "date": "2026-06-21T19:00:00+00:00",
+      "round": "Group Stage - 2",
+      "status": "FT",
+      "home": "be",
+      "away": "ir",
+      "goals": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": 1489398,
+      "date": "2026-06-21T22:00:00+00:00",
+      "round": "Group Stage - 2",
+      "status": "FT",
+      "home": "uy",
+      "away": "cv",
+      "goals": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": 1489396,
+      "date": "2026-06-22T01:00:00+00:00",
+      "round": "Group Stage - 2",
+      "status": "FT",
+      "home": "nz",
+      "away": "eg",
+      "goals": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": 1489399,
+      "date": "2026-06-22T17:00:00+00:00",
+      "round": "Group Stage - 2",
+      "status": "FT",
+      "home": "ar",
+      "away": "at",
+      "goals": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": 1539017,
+      "date": "2026-06-22T21:00:00+00:00",
+      "round": "Group Stage - 2",
+      "status": "FT",
+      "home": "fr",
+      "away": "iq",
+      "goals": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": 1489401,
+      "date": "2026-06-23T00:00:00+00:00",
+      "round": "Group Stage - 2",
+      "status": "FT",
+      "home": "no",
+      "away": "sn",
+      "goals": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": 1489400,
+      "date": "2026-06-23T03:00:00+00:00",
+      "round": "Group Stage - 2",
+      "status": "FT",
+      "home": "jo",
+      "away": "dz",
+      "goals": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": 1489404,
+      "date": "2026-06-23T17:00:00+00:00",
+      "round": "Group Stage - 2",
+      "status": "FT",
+      "home": "pt",
+      "away": "uz",
+      "goals": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": 1489402,
+      "date": "2026-06-23T20:00:00+00:00",
+      "round": "Group Stage - 2",
+      "status": "FT",
+      "home": "gb-eng",
+      "away": "gh",
+      "goals": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": 1489403,
+      "date": "2026-06-23T23:00:00+00:00",
+      "round": "Group Stage - 2",
+      "status": "FT",
+      "home": "pa",
+      "away": "hr",
+      "goals": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": 1539008,
+      "date": "2026-06-24T02:00:00+00:00",
+      "round": "Group Stage - 2",
+      "status": "FT",
+      "home": "co",
+      "away": "cd",
+      "goals": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": 1489408,
+      "date": "2026-06-24T19:00:00+00:00",
+      "round": "Group Stage - 3",
+      "status": "FT",
+      "home": "ch",
+      "away": "ca",
+      "goals": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": 1539009,
+      "date": "2026-06-24T19:00:00+00:00",
+      "round": "Group Stage - 3",
+      "status": "FT",
+      "home": "ba",
+      "away": "qa",
+      "goals": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": 1489405,
+      "date": "2026-06-24T22:00:00+00:00",
+      "round": "Group Stage - 3",
+      "status": "FT",
+      "home": "ma",
+      "away": "ht",
+      "goals": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": 1489406,
+      "date": "2026-06-24T22:00:00+00:00",
+      "round": "Group Stage - 3",
+      "status": "FT",
+      "home": "gb-sct",
+      "away": "br",
+      "goals": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": 1539010,
+      "date": "2026-06-25T01:00:00+00:00",
+      "round": "Group Stage - 3",
+      "status": "FT",
+      "home": "cz",
+      "away": "mx",
+      "goals": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": 1489407,
+      "date": "2026-06-25T01:00:00+00:00",
+      "round": "Group Stage - 3",
+      "status": "FT",
+      "home": "za",
+      "away": "kr",
+      "goals": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": 1489410,
+      "date": "2026-06-25T20:00:00+00:00",
+      "round": "Group Stage - 3",
+      "status": "FT",
+      "home": "ec",
+      "away": "de",
+      "goals": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": 1489409,
+      "date": "2026-06-25T20:00:00+00:00",
+      "round": "Group Stage - 3",
+      "status": "FT",
+      "home": "cw",
+      "away": "ci",
+      "goals": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": 1539011,
+      "date": "2026-06-25T23:00:00+00:00",
+      "round": "Group Stage - 3",
+      "status": "FT",
+      "home": "jp",
+      "away": "se",
+      "goals": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": 1489412,
+      "date": "2026-06-25T23:00:00+00:00",
+      "round": "Group Stage - 3",
+      "status": "FT",
+      "home": "tn",
+      "away": "nl",
+      "goals": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": 1539012,
+      "date": "2026-06-26T02:00:00+00:00",
+      "round": "Group Stage - 3",
+      "status": "FT",
+      "home": "tr",
+      "away": "us",
+      "goals": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": 1489411,
+      "date": "2026-06-26T02:00:00+00:00",
+      "round": "Group Stage - 3",
+      "status": "FT",
+      "home": "py",
+      "away": "au",
+      "goals": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": 1539074,
+      "date": "2026-06-26T19:00:00+00:00",
+      "round": "Group Stage - 3",
+      "status": "FT",
+      "home": "sn",
+      "away": "iq",
+      "goals": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": 1489416,
+      "date": "2026-06-26T19:00:00+00:00",
+      "round": "Group Stage - 3",
+      "status": "FT",
+      "home": "no",
+      "away": "fr",
+      "goals": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": 1489417,
+      "date": "2026-06-27T00:00:00+00:00",
+      "round": "Group Stage - 3",
+      "status": "FT",
+      "home": "uy",
+      "away": "es",
+      "goals": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": 1489413,
+      "date": "2026-06-27T00:00:00+00:00",
+      "round": "Group Stage - 3",
+      "status": "FT",
+      "home": "cv",
+      "away": "sa",
+      "goals": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": 1489414,
+      "date": "2026-06-27T03:00:00+00:00",
+      "round": "Group Stage - 3",
+      "status": "FT",
+      "home": "eg",
+      "away": "ir",
+      "goals": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": 1489415,
+      "date": "2026-06-27T03:00:00+00:00",
+      "round": "Group Stage - 3",
+      "status": "FT",
+      "home": "nz",
+      "away": "be",
+      "goals": {
+        "home": 1,
+        "away": 5
+      }
+    },
+    {
+      "id": 1489420,
+      "date": "2026-06-27T21:00:00+00:00",
+      "round": "Group Stage - 3",
+      "status": "FT",
+      "home": "hr",
+      "away": "gh",
+      "goals": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": 1489422,
+      "date": "2026-06-27T21:00:00+00:00",
+      "round": "Group Stage - 3",
+      "status": "FT",
+      "home": "pa",
+      "away": "gb-eng",
+      "goals": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": 1489419,
+      "date": "2026-06-27T23:30:00+00:00",
+      "round": "Group Stage - 3",
+      "status": "FT",
+      "home": "co",
+      "away": "pt",
+      "goals": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": 1539013,
+      "date": "2026-06-27T23:30:00+00:00",
+      "round": "Group Stage - 3",
+      "status": "FT",
+      "home": "cd",
+      "away": "uz",
+      "goals": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": 1489418,
+      "date": "2026-06-28T02:00:00+00:00",
+      "round": "Group Stage - 3",
+      "status": "FT",
+      "home": "dz",
+      "away": "at",
+      "goals": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": 1489421,
+      "date": "2026-06-28T02:00:00+00:00",
+      "round": "Group Stage - 3",
+      "status": "FT",
+      "home": "jo",
+      "away": "ar",
+      "goals": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": 1561329,
+      "date": "2026-06-28T19:00:00+00:00",
+      "round": "Round of 32",
+      "status": "FT",
+      "home": "za",
+      "away": "ca",
+      "goals": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": 1562344,
+      "date": "2026-06-29T17:00:00+00:00",
+      "round": "Round of 32",
+      "status": "FT",
+      "home": "br",
+      "away": "jp",
+      "goals": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": 1565176,
+      "date": "2026-06-29T20:30:00+00:00",
+      "round": "Round of 32",
+      "status": "PEN",
+      "home": "de",
+      "away": "py",
+      "goals": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": 1562345,
+      "date": "2026-06-30T01:00:00+00:00",
+      "round": "Round of 32",
+      "status": "PEN",
+      "home": "nl",
+      "away": "ma",
+      "goals": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": 1564789,
+      "date": "2026-06-30T17:00:00+00:00",
+      "round": "Round of 32",
+      "status": "FT",
+      "home": "ci",
+      "away": "no",
+      "goals": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": 1565177,
+      "date": "2026-06-30T21:00:00+00:00",
+      "round": "Round of 32",
+      "status": "FT",
+      "home": "fr",
+      "away": "se",
+      "goals": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": 1567306,
+      "date": "2026-07-01T01:00:00+00:00",
+      "round": "Round of 32",
+      "status": "FT",
+      "home": "mx",
+      "away": "ec",
+      "goals": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": 1567307,
+      "date": "2026-07-01T16:00:00+00:00",
+      "round": "Round of 32",
+      "status": "FT",
+      "home": "gb-eng",
+      "away": "cd",
+      "goals": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": 1567308,
+      "date": "2026-07-01T20:00:00+00:00",
+      "round": "Round of 32",
+      "status": "AET",
+      "home": "be",
+      "away": "sn",
+      "goals": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": 1562586,
+      "date": "2026-07-02T00:00:00+00:00",
+      "round": "Round of 32",
+      "status": "FT",
+      "home": "us",
+      "away": "ba",
+      "goals": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": 1567311,
+      "date": "2026-07-02T19:00:00+00:00",
+      "round": "Round of 32",
+      "status": "FT",
+      "home": "es",
+      "away": "at",
+      "goals": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": 1567309,
+      "date": "2026-07-02T23:00:00+00:00",
+      "round": "Round of 32",
+      "status": "FT",
+      "home": "pt",
+      "away": "hr",
+      "goals": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": 1567312,
+      "date": "2026-07-03T03:00:00+00:00",
+      "round": "Round of 32",
+      "status": "FT",
+      "home": "ch",
+      "away": "dz",
+      "goals": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": 1565178,
+      "date": "2026-07-03T18:00:00+00:00",
+      "round": "Round of 32",
+      "status": "PEN",
+      "home": "au",
+      "away": "eg",
+      "goals": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": 1565179,
+      "date": "2026-07-03T22:00:00+00:00",
+      "round": "Round of 32",
+      "status": "AET",
+      "home": "ar",
+      "away": "cv",
+      "goals": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": 1567310,
+      "date": "2026-07-04T01:30:00+00:00",
+      "round": "Round of 32",
+      "status": "FT",
+      "home": "co",
+      "away": "gh",
+      "goals": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": 1567824,
+      "date": "2026-07-04T17:00:00+00:00",
+      "round": "Round of 16",
+      "status": "NS",
+      "home": "ca",
+      "away": "ma",
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 1569870,
+      "date": "2026-07-04T21:00:00+00:00",
+      "round": "Round of 16",
+      "status": "NS",
+      "home": "py",
+      "away": "fr",
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 1568100,
+      "date": "2026-07-05T20:00:00+00:00",
+      "round": "Round of 16",
+      "status": "NS",
+      "home": "br",
+      "away": "no",
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 1570714,
+      "date": "2026-07-06T00:00:00+00:00",
+      "round": "Round of 16",
+      "status": "NS",
+      "home": "mx",
+      "away": "gb-eng",
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 1576756,
+      "date": "2026-07-06T19:00:00+00:00",
+      "round": "Round of 16",
+      "status": "NS",
+      "home": "pt",
+      "away": "es",
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 1570715,
+      "date": "2026-07-07T00:00:00+00:00",
+      "round": "Round of 16",
+      "status": "NS",
+      "home": "us",
+      "away": "be",
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 1576804,
+      "date": "2026-07-07T16:00:00+00:00",
+      "round": "Round of 16",
+      "status": "NS",
+      "home": "ar",
+      "away": "eg",
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 1576805,
+      "date": "2026-07-07T20:00:00+00:00",
+      "round": "Round of 16",
+      "status": "NS",
+      "home": "ch",
+      "away": "co",
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    }
+  ]
+}

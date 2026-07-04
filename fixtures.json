@@ -900,6 +900,12 @@
       "goals": {
         "home": 1,
         "away": 1
+      },
+      "score": {
+        "penalty": {
+          "home": 3,
+          "away": 4
+        }
       }
     },
     {
@@ -912,6 +918,12 @@
       "goals": {
         "home": 1,
         "away": 1
+      },
+      "score": {
+        "penalty": {
+          "home": 2,
+          "away": 3
+        }
       }
     },
     {
@@ -1032,6 +1044,12 @@
       "goals": {
         "home": 1,
         "away": 1
+      },
+      "score": {
+        "penalty": {
+          "home": 2,
+          "away": 4
+        }
       }
     },
     {

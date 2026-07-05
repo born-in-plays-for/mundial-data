@@ -1,6 +1,6 @@
 {
   "source": "api-football.com",
-  "updated": "2026-07-05",
+  "updated": "2026-07-06",
   "fixtures": [
     {
       "id": 1489369,
@@ -1194,14 +1194,14 @@
       "id": 1568100,
       "date": "2026-07-05T20:00:00+00:00",
       "round": "Round of 16",
-      "status": "NS",
+      "status": "FT",
       "home": "br",
       "away": "no",
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 2
       },
-      "winner": null
+      "winner": "away"
     },
     {
       "id": 1570714,

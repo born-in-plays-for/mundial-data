@@ -1267,6 +1267,19 @@
         "away": null
       },
       "winner": null
+    },
+    {
+      "id": 1578539,
+      "date": "2026-07-09T20:00:00+00:00",
+      "round": "Quarter-finals",
+      "status": "NS",
+      "home": "fr",
+      "away": "ma",
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "winner": null
     }
   ]
 }

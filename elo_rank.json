@@ -1,6 +1,6 @@
 {
   "source": "eloratings.net",
-  "updated": "2026-07-05",
+  "updated": "2026-07-06",
   "stats": {
     "total": 244,
     "fifaMembers": 211,
@@ -43,7 +43,7 @@
       "id": 8260,
       "iso2": "gb-eng",
       "name": "England",
-      "pts": 2046,
+      "pts": 2076,
       "fifaMember": true,
       "weirdo": false
     },
@@ -94,15 +94,6 @@
     },
     {
       "rank": 10,
-      "id": 484,
-      "iso2": "mx",
-      "name": "Mexico",
-      "pts": 1943,
-      "fifaMember": true,
-      "weirdo": false
-    },
-    {
-      "rank": 10,
       "id": 756,
       "iso2": "ch",
       "name": "Switzerland",
@@ -111,11 +102,20 @@
       "weirdo": false
     },
     {
-      "rank": 12,
+      "rank": 11,
       "id": 504,
       "iso2": "ma",
       "name": "Morocco",
       "pts": 1921,
+      "fifaMember": true,
+      "weirdo": false
+    },
+    {
+      "rank": 12,
+      "id": 484,
+      "iso2": "mx",
+      "name": "Mexico",
+      "pts": 1913,
       "fifaMember": true,
       "weirdo": false
     },
@@ -133,7 +133,7 @@
       "id": 276,
       "iso2": "de",
       "name": "Germany",
-      "pts": 1908,
+      "pts": 1907,
       "fifaMember": true,
       "weirdo": false
     },
@@ -151,7 +151,7 @@
       "id": 191,
       "iso2": "hr",
       "name": "Croatia",
-      "pts": 1882,
+      "pts": 1881,
       "fifaMember": true,
       "weirdo": false
     },
@@ -547,7 +547,7 @@
       "id": 120,
       "iso2": "cm",
       "name": "Cameroon",
-      "pts": 1614,
+      "pts": 1613,
       "fifaMember": true,
       "weirdo": false
     },
@@ -556,7 +556,7 @@
       "id": 188,
       "iso2": "cr",
       "name": "Costa Rica",
-      "pts": 1608,
+      "pts": 1609,
       "fifaMember": true,
       "weirdo": false
     },
@@ -565,12 +565,12 @@
       "id": 8263,
       "iso2": "gb-nir",
       "name": "Northern Ireland",
-      "pts": 1605,
+      "pts": 1606,
       "fifaMember": true,
       "weirdo": false
     },
     {
-      "rank": 63,
+      "rank": 64,
       "id": 70,
       "iso2": "ba",
       "name": "Bosnia and Herzegovina",
@@ -655,7 +655,7 @@
       "id": 710,
       "iso2": "za",
       "name": "South Africa",
-      "pts": 1559,
+      "pts": 1560,
       "fifaMember": true,
       "weirdo": false
     },
@@ -736,7 +736,7 @@
       "id": 320,
       "iso2": "gt",
       "name": "Guatemala",
-      "pts": 1505,
+      "pts": 1504,
       "fifaMember": true,
       "weirdo": false
     },
@@ -781,7 +781,7 @@
       "id": 499,
       "iso2": "me",
       "name": "Montenegro",
-      "pts": 1461,
+      "pts": 1460,
       "fifaMember": true,
       "weirdo": false
     },
@@ -1236,11 +1236,11 @@
       "weirdo": false
     },
     {
-      "rank": 138,
+      "rank": 137,
       "id": 328,
       "iso2": "gy",
       "name": "Guyana",
-      "pts": 1292,
+      "pts": 1293,
       "fifaMember": true,
       "weirdo": false
     },
@@ -1282,19 +1282,19 @@
     },
     {
       "rank": 143,
-      "id": 762,
-      "iso2": "tj",
-      "name": "Tajikistan",
+      "id": 108,
+      "iso2": "bi",
+      "name": "Burundi",
       "pts": 1285,
       "fifaMember": true,
       "weirdo": false
     },
     {
-      "rank": 143,
-      "id": 108,
-      "iso2": "bi",
-      "name": "Burundi",
-      "pts": 1285,
+      "rank": 144,
+      "id": 762,
+      "iso2": "tj",
+      "name": "Tajikistan",
+      "pts": 1284,
       "fifaMember": true,
       "weirdo": false
     },
@@ -1618,7 +1618,7 @@
       "id": 663,
       "iso2": "mf",
       "name": "Saint Martin",
-      "pts": 1042,
+      "pts": 1043,
       "fifaMember": false,
       "weirdo": false
     },
@@ -1717,7 +1717,7 @@
       "id": 500,
       "iso2": "ms",
       "name": "Montserrat",
-      "pts": 972,
+      "pts": 971,
       "fifaMember": true,
       "weirdo": false
     },
@@ -1762,7 +1762,7 @@
       "id": 212,
       "iso2": "dm",
       "name": "Dominica",
-      "pts": 934,
+      "pts": 935,
       "fifaMember": true,
       "weirdo": false
     },
@@ -2041,7 +2041,7 @@
       "id": 660,
       "iso2": "ai",
       "name": "Anguilla",
-      "pts": 646,
+      "pts": 647,
       "fifaMember": true,
       "weirdo": false
     },

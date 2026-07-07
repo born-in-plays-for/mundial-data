@@ -1,6 +1,6 @@
 {
   "source": "eloratings.net",
-  "updated": "2026-07-06",
+  "updated": "2026-07-07",
   "stats": {
     "total": 244,
     "fifaMembers": 211,
@@ -16,7 +16,7 @@
       "id": 724,
       "iso2": "es",
       "name": "Spain",
-      "pts": 2159,
+      "pts": 2177,
       "fifaMember": true,
       "weirdo": false
     },
@@ -49,19 +49,19 @@
     },
     {
       "rank": 5,
-      "id": 620,
-      "iso2": "pt",
-      "name": "Portugal",
-      "pts": 2013,
+      "id": 170,
+      "iso2": "co",
+      "name": "Colombia",
+      "pts": 2009,
       "fifaMember": true,
       "weirdo": false
     },
     {
       "rank": 6,
-      "id": 170,
-      "iso2": "co",
-      "name": "Colombia",
-      "pts": 2009,
+      "id": 620,
+      "iso2": "pt",
+      "name": "Portugal",
+      "pts": 1995,
       "fifaMember": true,
       "weirdo": false
     },
@@ -94,6 +94,15 @@
     },
     {
       "rank": 10,
+      "id": 56,
+      "iso2": "be",
+      "name": "Belgium",
+      "pts": 1961,
+      "fifaMember": true,
+      "weirdo": false
+    },
+    {
+      "rank": 11,
       "id": 756,
       "iso2": "ch",
       "name": "Switzerland",
@@ -102,7 +111,7 @@
       "weirdo": false
     },
     {
-      "rank": 11,
+      "rank": 12,
       "id": 504,
       "iso2": "ma",
       "name": "Morocco",
@@ -111,20 +120,11 @@
       "weirdo": false
     },
     {
-      "rank": 12,
+      "rank": 13,
       "id": 484,
       "iso2": "mx",
       "name": "Mexico",
       "pts": 1913,
-      "fifaMember": true,
-      "weirdo": false
-    },
-    {
-      "rank": 13,
-      "id": 56,
-      "iso2": "be",
-      "name": "Belgium",
-      "pts": 1910,
       "fifaMember": true,
       "weirdo": false
     },
@@ -229,15 +229,6 @@
     },
     {
       "rank": 25,
-      "id": 840,
-      "iso2": "us",
-      "name": "United States",
-      "pts": 1798,
-      "fifaMember": true,
-      "weirdo": false
-    },
-    {
-      "rank": 26,
       "id": 36,
       "iso2": "au",
       "name": "Australia",
@@ -246,7 +237,7 @@
       "weirdo": false
     },
     {
-      "rank": 27,
+      "rank": 26,
       "id": 804,
       "iso2": "ua",
       "name": "Ukraine",
@@ -255,7 +246,7 @@
       "weirdo": false
     },
     {
-      "rank": 28,
+      "rank": 27,
       "id": 643,
       "iso2": "ru",
       "name": "Russia",
@@ -264,7 +255,7 @@
       "weirdo": false
     },
     {
-      "rank": 29,
+      "rank": 28,
       "id": 566,
       "iso2": "ng",
       "name": "Nigeria",
@@ -273,7 +264,7 @@
       "weirdo": false
     },
     {
-      "rank": 30,
+      "rank": 29,
       "id": 364,
       "iso2": "ir",
       "name": "Iran",
@@ -282,7 +273,7 @@
       "weirdo": false
     },
     {
-      "rank": 31,
+      "rank": 30,
       "id": 12,
       "iso2": "dz",
       "name": "Algeria",
@@ -291,10 +282,19 @@
       "weirdo": false
     },
     {
-      "rank": 32,
+      "rank": 31,
       "id": 818,
       "iso2": "eg",
       "name": "Egypt",
+      "pts": 1747,
+      "fifaMember": true,
+      "weirdo": false
+    },
+    {
+      "rank": 31,
+      "id": 840,
+      "iso2": "us",
+      "name": "United States",
       "pts": 1747,
       "fifaMember": true,
       "weirdo": false

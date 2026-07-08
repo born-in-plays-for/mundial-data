@@ -1,6 +1,6 @@
 {
   "source": "eloratings.net",
-  "updated": "2026-07-07",
+  "updated": "2026-07-08",
   "stats": {
     "total": 244,
     "fifaMembers": 211,
@@ -25,7 +25,7 @@
       "id": 32,
       "iso2": "ar",
       "name": "Argentina",
-      "pts": 2151,
+      "pts": 2156,
       "fifaMember": true,
       "weirdo": false
     },
@@ -52,7 +52,7 @@
       "id": 170,
       "iso2": "co",
       "name": "Colombia",
-      "pts": 2009,
+      "pts": 2003,
       "fifaMember": true,
       "weirdo": false
     },
@@ -106,7 +106,7 @@
       "id": 756,
       "iso2": "ch",
       "name": "Switzerland",
-      "pts": 1943,
+      "pts": 1949,
       "fifaMember": true,
       "weirdo": false
     },
@@ -151,7 +151,7 @@
       "id": 191,
       "iso2": "hr",
       "name": "Croatia",
-      "pts": 1881,
+      "pts": 1882,
       "fifaMember": true,
       "weirdo": false
     },
@@ -283,15 +283,6 @@
     },
     {
       "rank": 31,
-      "id": 818,
-      "iso2": "eg",
-      "name": "Egypt",
-      "pts": 1747,
-      "fifaMember": true,
-      "weirdo": false
-    },
-    {
-      "rank": 31,
       "id": 840,
       "iso2": "us",
       "name": "United States",
@@ -300,7 +291,7 @@
       "weirdo": false
     },
     {
-      "rank": 33,
+      "rank": 32,
       "id": 8261,
       "iso2": "gb-sct",
       "name": "Scotland",
@@ -309,11 +300,20 @@
       "weirdo": false
     },
     {
-      "rank": 34,
+      "rank": 33,
       "id": 300,
       "iso2": "gr",
       "name": "Greece",
       "pts": 1744,
+      "fifaMember": true,
+      "weirdo": false
+    },
+    {
+      "rank": 34,
+      "id": 818,
+      "iso2": "eg",
+      "name": "Egypt",
+      "pts": 1742,
       "fifaMember": true,
       "weirdo": false
     },
@@ -565,12 +565,12 @@
       "id": 8263,
       "iso2": "gb-nir",
       "name": "Northern Ireland",
-      "pts": 1606,
+      "pts": 1605,
       "fifaMember": true,
       "weirdo": false
     },
     {
-      "rank": 64,
+      "rank": 63,
       "id": 70,
       "iso2": "ba",
       "name": "Bosnia and Herzegovina",
@@ -1663,7 +1663,7 @@
       "id": 662,
       "iso2": "lc",
       "name": "Saint Lucia",
-      "pts": 1003,
+      "pts": 1004,
       "fifaMember": true,
       "weirdo": false
     },
@@ -2041,7 +2041,7 @@
       "id": 660,
       "iso2": "ai",
       "name": "Anguilla",
-      "pts": 647,
+      "pts": 646,
       "fifaMember": true,
       "weirdo": false
     },

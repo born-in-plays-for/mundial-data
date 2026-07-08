@@ -1,6 +1,6 @@
 {
   "source": "api-football.com",
-  "updated": "2026-07-07",
+  "updated": "2026-07-08",
   "fixtures": [
     {
       "id": 1489369,
@@ -1259,14 +1259,20 @@
       "id": 1576805,
       "date": "2026-07-07T20:00:00+00:00",
       "round": "Round of 16",
-      "status": "NS",
+      "status": "PEN",
       "home": "ch",
       "away": "co",
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
-      "winner": null
+      "winner": "home",
+      "score": {
+        "penalty": {
+          "home": 4,
+          "away": 3
+        }
+      }
     },
     {
       "id": 1578539,
@@ -1301,6 +1307,19 @@
       "status": "NS",
       "home": "no",
       "away": "gb-eng",
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "winner": null
+    },
+    {
+      "id": 1582681,
+      "date": "2026-07-12T01:00:00+00:00",
+      "round": "Quarter-finals",
+      "status": "NS",
+      "home": "ar",
+      "away": "ch",
       "goals": {
         "home": null,
         "away": null

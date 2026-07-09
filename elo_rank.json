@@ -1,6 +1,6 @@
 {
   "source": "eloratings.net",
-  "updated": "2026-07-08",
+  "updated": "2026-07-09",
   "stats": {
     "total": 244,
     "fifaMembers": 211,
@@ -151,7 +151,7 @@
       "id": 191,
       "iso2": "hr",
       "name": "Croatia",
-      "pts": 1882,
+      "pts": 1881,
       "fifaMember": true,
       "weirdo": false
     },
@@ -412,12 +412,12 @@
       "id": 604,
       "iso2": "pe",
       "name": "Peru",
-      "pts": 1699,
+      "pts": 1700,
       "fifaMember": true,
       "weirdo": false
     },
     {
-      "rank": 46,
+      "rank": 47,
       "id": 372,
       "iso2": "ie",
       "name": "Ireland",
@@ -556,7 +556,7 @@
       "id": 188,
       "iso2": "cr",
       "name": "Costa Rica",
-      "pts": 1609,
+      "pts": 1608,
       "fifaMember": true,
       "weirdo": false
     },
@@ -781,7 +781,7 @@
       "id": 499,
       "iso2": "me",
       "name": "Montenegro",
-      "pts": 1460,
+      "pts": 1461,
       "fifaMember": true,
       "weirdo": false
     },
@@ -1717,7 +1717,7 @@
       "id": 500,
       "iso2": "ms",
       "name": "Montserrat",
-      "pts": 971,
+      "pts": 972,
       "fifaMember": true,
       "weirdo": false
     },
@@ -1870,7 +1870,7 @@
       "id": 535,
       "iso2": "bq",
       "name": "Caribbean Netherlands",
-      "pts": 817,
+      "pts": 816,
       "fifaMember": false,
       "weirdo": false
     },

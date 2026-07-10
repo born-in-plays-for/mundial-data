@@ -1,6 +1,6 @@
 {
   "source": "eloratings.net",
-  "updated": "2026-07-09",
+  "updated": "2026-07-10",
   "stats": {
     "total": 244,
     "fifaMembers": 211,
@@ -22,19 +22,19 @@
     },
     {
       "rank": 2,
-      "id": 32,
-      "iso2": "ar",
-      "name": "Argentina",
-      "pts": 2156,
+      "id": 250,
+      "iso2": "fr",
+      "name": "France",
+      "pts": 2163,
       "fifaMember": true,
       "weirdo": false
     },
     {
       "rank": 3,
-      "id": 250,
-      "iso2": "fr",
-      "name": "France",
-      "pts": 2143,
+      "id": 32,
+      "iso2": "ar",
+      "name": "Argentina",
+      "pts": 2156,
       "fifaMember": true,
       "weirdo": false
     },
@@ -112,15 +112,6 @@
     },
     {
       "rank": 12,
-      "id": 504,
-      "iso2": "ma",
-      "name": "Morocco",
-      "pts": 1921,
-      "fifaMember": true,
-      "weirdo": false
-    },
-    {
-      "rank": 13,
       "id": 484,
       "iso2": "mx",
       "name": "Mexico",
@@ -129,11 +120,20 @@
       "weirdo": false
     },
     {
-      "rank": 14,
+      "rank": 13,
       "id": 276,
       "iso2": "de",
       "name": "Germany",
       "pts": 1907,
+      "fifaMember": true,
+      "weirdo": false
+    },
+    {
+      "rank": 14,
+      "id": 504,
+      "iso2": "ma",
+      "name": "Morocco",
+      "pts": 1901,
       "fifaMember": true,
       "weirdo": false
     },

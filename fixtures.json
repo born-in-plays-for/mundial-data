@@ -1,6 +1,6 @@
 {
   "source": "api-football.com",
-  "updated": "2026-07-10",
+  "updated": "2026-07-11",
   "fixtures": [
     {
       "id": 1489369,
@@ -1291,14 +1291,14 @@
       "id": 1581821,
       "date": "2026-07-10T19:00:00+00:00",
       "round": "Quarter-finals",
-      "status": "NS",
+      "status": "FT",
       "home": "es",
       "away": "be",
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
-      "winner": null
+      "winner": "home"
     },
     {
       "id": 1581037,
@@ -1320,6 +1320,19 @@
       "status": "NS",
       "home": "ar",
       "away": "ch",
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "winner": null
+    },
+    {
+      "id": 1585131,
+      "date": "2026-07-14T19:00:00+00:00",
+      "round": "Semi-finals",
+      "status": "NS",
+      "home": "fr",
+      "away": "es",
       "goals": {
         "home": null,
         "away": null

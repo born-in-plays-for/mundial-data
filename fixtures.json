@@ -1,6 +1,6 @@
 {
   "source": "api-football.com",
-  "updated": "2026-07-11",
+  "updated": "2026-07-12",
   "fixtures": [
     {
       "id": 1489369,
@@ -1304,14 +1304,14 @@
       "id": 1581037,
       "date": "2026-07-11T21:00:00+00:00",
       "round": "Quarter-finals",
-      "status": "NS",
+      "status": "AET",
       "home": "no",
       "away": "gb-eng",
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 2
       },
-      "winner": null
+      "winner": "away"
     },
     {
       "id": 1582681,

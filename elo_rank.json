@@ -1,6 +1,6 @@
 {
   "source": "eloratings.net",
-  "updated": "2026-07-11",
+  "updated": "2026-07-12",
   "stats": {
     "total": 244,
     "fifaMembers": 211,
@@ -43,7 +43,7 @@
       "id": 8260,
       "iso2": "gb-eng",
       "name": "England",
-      "pts": 2076,
+      "pts": 2097,
       "fifaMember": true,
       "weirdo": false
     },
@@ -76,19 +76,19 @@
     },
     {
       "rank": 8,
-      "id": 578,
-      "iso2": "no",
-      "name": "Norway",
-      "pts": 1972,
+      "id": 528,
+      "iso2": "nl",
+      "name": "Netherlands",
+      "pts": 1971,
       "fifaMember": true,
       "weirdo": false
     },
     {
       "rank": 9,
-      "id": 528,
-      "iso2": "nl",
-      "name": "Netherlands",
-      "pts": 1971,
+      "id": 578,
+      "iso2": "no",
+      "name": "Norway",
+      "pts": 1951,
       "fifaMember": true,
       "weirdo": false
     },
@@ -124,7 +124,7 @@
       "id": 276,
       "iso2": "de",
       "name": "Germany",
-      "pts": 1907,
+      "pts": 1908,
       "fifaMember": true,
       "weirdo": false
     },
@@ -151,7 +151,7 @@
       "id": 191,
       "iso2": "hr",
       "name": "Croatia",
-      "pts": 1881,
+      "pts": 1882,
       "fifaMember": true,
       "weirdo": false
     },
@@ -655,7 +655,7 @@
       "id": 710,
       "iso2": "za",
       "name": "South Africa",
-      "pts": 1560,
+      "pts": 1559,
       "fifaMember": true,
       "weirdo": false
     },
@@ -1663,7 +1663,7 @@
       "id": 662,
       "iso2": "lc",
       "name": "Saint Lucia",
-      "pts": 1004,
+      "pts": 1003,
       "fifaMember": true,
       "weirdo": false
     },
@@ -1708,7 +1708,7 @@
       "id": 534,
       "iso2": "sx",
       "name": "Sint Maarten",
-      "pts": 975,
+      "pts": 974,
       "fifaMember": false,
       "weirdo": false
     },
@@ -2041,7 +2041,7 @@
       "id": 660,
       "iso2": "ai",
       "name": "Anguilla",
-      "pts": 646,
+      "pts": 647,
       "fifaMember": true,
       "weirdo": false
     },

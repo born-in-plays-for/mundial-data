@@ -1317,14 +1317,14 @@
       "id": 1582681,
       "date": "2026-07-12T01:00:00+00:00",
       "round": "Quarter-finals",
-      "status": "NS",
+      "status": "AET",
       "home": "ar",
       "away": "ch",
       "goals": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 1
       },
-      "winner": null
+      "winner": "home"
     },
     {
       "id": 1585131,
@@ -1333,6 +1333,19 @@
       "status": "NS",
       "home": "fr",
       "away": "es",
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "winner": null
+    },
+    {
+      "id": 1586077,
+      "date": "2026-07-15T19:00:00+00:00",
+      "round": "Semi-finals",
+      "status": "NS",
+      "home": "gb-eng",
+      "away": "ar",
       "goals": {
         "home": null,
         "away": null

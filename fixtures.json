@@ -75,6 +75,608 @@
       "pa"
     ]
   },
+  "standings": {
+    "A": [
+      {
+        "iso2": "mx",
+        "rank": 1,
+        "points": 9,
+        "played": 3,
+        "win": 3,
+        "draw": 0,
+        "lose": 0,
+        "goalsFor": 6,
+        "goalsAgainst": 0,
+        "goalsDiff": 6
+      },
+      {
+        "iso2": "za",
+        "rank": 2,
+        "points": 4,
+        "played": 3,
+        "win": 1,
+        "draw": 1,
+        "lose": 1,
+        "goalsFor": 2,
+        "goalsAgainst": 3,
+        "goalsDiff": -1
+      },
+      {
+        "iso2": "kr",
+        "rank": 3,
+        "points": 3,
+        "played": 3,
+        "win": 1,
+        "draw": 0,
+        "lose": 2,
+        "goalsFor": 2,
+        "goalsAgainst": 3,
+        "goalsDiff": -1
+      },
+      {
+        "iso2": "cz",
+        "rank": 4,
+        "points": 1,
+        "played": 3,
+        "win": 0,
+        "draw": 1,
+        "lose": 2,
+        "goalsFor": 2,
+        "goalsAgainst": 6,
+        "goalsDiff": -4
+      }
+    ],
+    "B": [
+      {
+        "iso2": "ch",
+        "rank": 1,
+        "points": 7,
+        "played": 3,
+        "win": 2,
+        "draw": 1,
+        "lose": 0,
+        "goalsFor": 7,
+        "goalsAgainst": 3,
+        "goalsDiff": 4
+      },
+      {
+        "iso2": "ca",
+        "rank": 2,
+        "points": 4,
+        "played": 3,
+        "win": 1,
+        "draw": 1,
+        "lose": 1,
+        "goalsFor": 8,
+        "goalsAgainst": 3,
+        "goalsDiff": 5
+      },
+      {
+        "iso2": "ba",
+        "rank": 3,
+        "points": 4,
+        "played": 3,
+        "win": 1,
+        "draw": 1,
+        "lose": 1,
+        "goalsFor": 5,
+        "goalsAgainst": 6,
+        "goalsDiff": -1
+      },
+      {
+        "iso2": "qa",
+        "rank": 4,
+        "points": 1,
+        "played": 3,
+        "win": 0,
+        "draw": 1,
+        "lose": 2,
+        "goalsFor": 2,
+        "goalsAgainst": 10,
+        "goalsDiff": -8
+      }
+    ],
+    "C": [
+      {
+        "iso2": "br",
+        "rank": 1,
+        "points": 7,
+        "played": 3,
+        "win": 2,
+        "draw": 1,
+        "lose": 0,
+        "goalsFor": 7,
+        "goalsAgainst": 1,
+        "goalsDiff": 6
+      },
+      {
+        "iso2": "ma",
+        "rank": 2,
+        "points": 7,
+        "played": 3,
+        "win": 2,
+        "draw": 1,
+        "lose": 0,
+        "goalsFor": 6,
+        "goalsAgainst": 3,
+        "goalsDiff": 3
+      },
+      {
+        "iso2": "gb-sct",
+        "rank": 3,
+        "points": 3,
+        "played": 3,
+        "win": 1,
+        "draw": 0,
+        "lose": 2,
+        "goalsFor": 1,
+        "goalsAgainst": 4,
+        "goalsDiff": -3
+      },
+      {
+        "iso2": "ht",
+        "rank": 4,
+        "points": 0,
+        "played": 3,
+        "win": 0,
+        "draw": 0,
+        "lose": 3,
+        "goalsFor": 2,
+        "goalsAgainst": 8,
+        "goalsDiff": -6
+      }
+    ],
+    "D": [
+      {
+        "iso2": "us",
+        "rank": 1,
+        "points": 6,
+        "played": 3,
+        "win": 2,
+        "draw": 0,
+        "lose": 1,
+        "goalsFor": 8,
+        "goalsAgainst": 4,
+        "goalsDiff": 4
+      },
+      {
+        "iso2": "au",
+        "rank": 2,
+        "points": 4,
+        "played": 3,
+        "win": 1,
+        "draw": 1,
+        "lose": 1,
+        "goalsFor": 2,
+        "goalsAgainst": 2,
+        "goalsDiff": 0
+      },
+      {
+        "iso2": "py",
+        "rank": 3,
+        "points": 4,
+        "played": 3,
+        "win": 1,
+        "draw": 1,
+        "lose": 1,
+        "goalsFor": 2,
+        "goalsAgainst": 4,
+        "goalsDiff": -2
+      },
+      {
+        "iso2": "tr",
+        "rank": 4,
+        "points": 3,
+        "played": 3,
+        "win": 1,
+        "draw": 0,
+        "lose": 2,
+        "goalsFor": 3,
+        "goalsAgainst": 5,
+        "goalsDiff": -2
+      }
+    ],
+    "E": [
+      {
+        "iso2": "de",
+        "rank": 1,
+        "points": 6,
+        "played": 3,
+        "win": 2,
+        "draw": 0,
+        "lose": 1,
+        "goalsFor": 10,
+        "goalsAgainst": 4,
+        "goalsDiff": 6
+      },
+      {
+        "iso2": "ci",
+        "rank": 2,
+        "points": 6,
+        "played": 3,
+        "win": 2,
+        "draw": 0,
+        "lose": 1,
+        "goalsFor": 4,
+        "goalsAgainst": 2,
+        "goalsDiff": 2
+      },
+      {
+        "iso2": "ec",
+        "rank": 3,
+        "points": 4,
+        "played": 3,
+        "win": 1,
+        "draw": 1,
+        "lose": 1,
+        "goalsFor": 2,
+        "goalsAgainst": 2,
+        "goalsDiff": 0
+      },
+      {
+        "iso2": "cw",
+        "rank": 4,
+        "points": 1,
+        "played": 3,
+        "win": 0,
+        "draw": 1,
+        "lose": 2,
+        "goalsFor": 1,
+        "goalsAgainst": 9,
+        "goalsDiff": -8
+      }
+    ],
+    "F": [
+      {
+        "iso2": "nl",
+        "rank": 1,
+        "points": 7,
+        "played": 3,
+        "win": 2,
+        "draw": 1,
+        "lose": 0,
+        "goalsFor": 10,
+        "goalsAgainst": 4,
+        "goalsDiff": 6
+      },
+      {
+        "iso2": "jp",
+        "rank": 2,
+        "points": 5,
+        "played": 3,
+        "win": 1,
+        "draw": 2,
+        "lose": 0,
+        "goalsFor": 7,
+        "goalsAgainst": 3,
+        "goalsDiff": 4
+      },
+      {
+        "iso2": "se",
+        "rank": 3,
+        "points": 4,
+        "played": 3,
+        "win": 1,
+        "draw": 1,
+        "lose": 1,
+        "goalsFor": 7,
+        "goalsAgainst": 7,
+        "goalsDiff": 0
+      },
+      {
+        "iso2": "tn",
+        "rank": 4,
+        "points": 0,
+        "played": 3,
+        "win": 0,
+        "draw": 0,
+        "lose": 3,
+        "goalsFor": 2,
+        "goalsAgainst": 12,
+        "goalsDiff": -10
+      }
+    ],
+    "G": [
+      {
+        "iso2": "be",
+        "rank": 1,
+        "points": 5,
+        "played": 3,
+        "win": 1,
+        "draw": 2,
+        "lose": 0,
+        "goalsFor": 6,
+        "goalsAgainst": 2,
+        "goalsDiff": 4
+      },
+      {
+        "iso2": "eg",
+        "rank": 2,
+        "points": 5,
+        "played": 3,
+        "win": 1,
+        "draw": 2,
+        "lose": 0,
+        "goalsFor": 5,
+        "goalsAgainst": 3,
+        "goalsDiff": 2
+      },
+      {
+        "iso2": "ir",
+        "rank": 3,
+        "points": 3,
+        "played": 3,
+        "win": 0,
+        "draw": 3,
+        "lose": 0,
+        "goalsFor": 3,
+        "goalsAgainst": 3,
+        "goalsDiff": 0
+      },
+      {
+        "iso2": "nz",
+        "rank": 4,
+        "points": 1,
+        "played": 3,
+        "win": 0,
+        "draw": 1,
+        "lose": 2,
+        "goalsFor": 4,
+        "goalsAgainst": 10,
+        "goalsDiff": -6
+      }
+    ],
+    "H": [
+      {
+        "iso2": "es",
+        "rank": 1,
+        "points": 7,
+        "played": 3,
+        "win": 2,
+        "draw": 1,
+        "lose": 0,
+        "goalsFor": 5,
+        "goalsAgainst": 0,
+        "goalsDiff": 5
+      },
+      {
+        "iso2": "cv",
+        "rank": 2,
+        "points": 3,
+        "played": 3,
+        "win": 0,
+        "draw": 3,
+        "lose": 0,
+        "goalsFor": 2,
+        "goalsAgainst": 2,
+        "goalsDiff": 0
+      },
+      {
+        "iso2": "uy",
+        "rank": 3,
+        "points": 2,
+        "played": 3,
+        "win": 0,
+        "draw": 2,
+        "lose": 1,
+        "goalsFor": 3,
+        "goalsAgainst": 4,
+        "goalsDiff": -1
+      },
+      {
+        "iso2": "sa",
+        "rank": 4,
+        "points": 2,
+        "played": 3,
+        "win": 0,
+        "draw": 2,
+        "lose": 1,
+        "goalsFor": 1,
+        "goalsAgainst": 5,
+        "goalsDiff": -4
+      }
+    ],
+    "I": [
+      {
+        "iso2": "fr",
+        "rank": 1,
+        "points": 9,
+        "played": 3,
+        "win": 3,
+        "draw": 0,
+        "lose": 0,
+        "goalsFor": 10,
+        "goalsAgainst": 2,
+        "goalsDiff": 8
+      },
+      {
+        "iso2": "no",
+        "rank": 2,
+        "points": 6,
+        "played": 3,
+        "win": 2,
+        "draw": 0,
+        "lose": 1,
+        "goalsFor": 8,
+        "goalsAgainst": 7,
+        "goalsDiff": 1
+      },
+      {
+        "iso2": "sn",
+        "rank": 3,
+        "points": 3,
+        "played": 3,
+        "win": 1,
+        "draw": 0,
+        "lose": 2,
+        "goalsFor": 8,
+        "goalsAgainst": 6,
+        "goalsDiff": 2
+      },
+      {
+        "iso2": "iq",
+        "rank": 4,
+        "points": 0,
+        "played": 3,
+        "win": 0,
+        "draw": 0,
+        "lose": 3,
+        "goalsFor": 1,
+        "goalsAgainst": 12,
+        "goalsDiff": -11
+      }
+    ],
+    "J": [
+      {
+        "iso2": "ar",
+        "rank": 1,
+        "points": 9,
+        "played": 3,
+        "win": 3,
+        "draw": 0,
+        "lose": 0,
+        "goalsFor": 8,
+        "goalsAgainst": 1,
+        "goalsDiff": 7
+      },
+      {
+        "iso2": "at",
+        "rank": 2,
+        "points": 4,
+        "played": 3,
+        "win": 1,
+        "draw": 1,
+        "lose": 1,
+        "goalsFor": 6,
+        "goalsAgainst": 6,
+        "goalsDiff": 0
+      },
+      {
+        "iso2": "dz",
+        "rank": 3,
+        "points": 4,
+        "played": 3,
+        "win": 1,
+        "draw": 1,
+        "lose": 1,
+        "goalsFor": 5,
+        "goalsAgainst": 7,
+        "goalsDiff": -2
+      },
+      {
+        "iso2": "jo",
+        "rank": 4,
+        "points": 0,
+        "played": 3,
+        "win": 0,
+        "draw": 0,
+        "lose": 3,
+        "goalsFor": 3,
+        "goalsAgainst": 8,
+        "goalsDiff": -5
+      }
+    ],
+    "K": [
+      {
+        "iso2": "co",
+        "rank": 1,
+        "points": 7,
+        "played": 3,
+        "win": 2,
+        "draw": 1,
+        "lose": 0,
+        "goalsFor": 4,
+        "goalsAgainst": 1,
+        "goalsDiff": 3
+      },
+      {
+        "iso2": "pt",
+        "rank": 2,
+        "points": 5,
+        "played": 3,
+        "win": 1,
+        "draw": 2,
+        "lose": 0,
+        "goalsFor": 6,
+        "goalsAgainst": 1,
+        "goalsDiff": 5
+      },
+      {
+        "iso2": "cd",
+        "rank": 3,
+        "points": 4,
+        "played": 3,
+        "win": 1,
+        "draw": 1,
+        "lose": 1,
+        "goalsFor": 4,
+        "goalsAgainst": 3,
+        "goalsDiff": 1
+      },
+      {
+        "iso2": "uz",
+        "rank": 4,
+        "points": 0,
+        "played": 3,
+        "win": 0,
+        "draw": 0,
+        "lose": 3,
+        "goalsFor": 2,
+        "goalsAgainst": 11,
+        "goalsDiff": -9
+      }
+    ],
+    "L": [
+      {
+        "iso2": "gb-eng",
+        "rank": 1,
+        "points": 7,
+        "played": 3,
+        "win": 2,
+        "draw": 1,
+        "lose": 0,
+        "goalsFor": 6,
+        "goalsAgainst": 2,
+        "goalsDiff": 4
+      },
+      {
+        "iso2": "hr",
+        "rank": 2,
+        "points": 6,
+        "played": 3,
+        "win": 2,
+        "draw": 0,
+        "lose": 1,
+        "goalsFor": 5,
+        "goalsAgainst": 5,
+        "goalsDiff": 0
+      },
+      {
+        "iso2": "gh",
+        "rank": 3,
+        "points": 4,
+        "played": 3,
+        "win": 1,
+        "draw": 1,
+        "lose": 1,
+        "goalsFor": 2,
+        "goalsAgainst": 2,
+        "goalsDiff": 0
+      },
+      {
+        "iso2": "pa",
+        "rank": 4,
+        "points": 0,
+        "played": 3,
+        "win": 0,
+        "draw": 0,
+        "lose": 3,
+        "goalsFor": 0,
+        "goalsAgainst": 4,
+        "goalsDiff": -4
+      }
+    ]
+  },
   "fixtures": [
     {
       "id": 1489369,

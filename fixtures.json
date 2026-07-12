@@ -1,6 +1,80 @@
 {
   "source": "api-football.com",
   "updated": "2026-07-12",
+  "groups": {
+    "A": [
+      "cz",
+      "kr",
+      "mx",
+      "za"
+    ],
+    "B": [
+      "ba",
+      "ca",
+      "ch",
+      "qa"
+    ],
+    "C": [
+      "br",
+      "gb-sct",
+      "ht",
+      "ma"
+    ],
+    "D": [
+      "au",
+      "py",
+      "tr",
+      "us"
+    ],
+    "E": [
+      "ci",
+      "cw",
+      "de",
+      "ec"
+    ],
+    "F": [
+      "jp",
+      "nl",
+      "se",
+      "tn"
+    ],
+    "G": [
+      "be",
+      "eg",
+      "ir",
+      "nz"
+    ],
+    "H": [
+      "cv",
+      "es",
+      "sa",
+      "uy"
+    ],
+    "I": [
+      "fr",
+      "iq",
+      "no",
+      "sn"
+    ],
+    "J": [
+      "ar",
+      "at",
+      "dz",
+      "jo"
+    ],
+    "K": [
+      "cd",
+      "co",
+      "pt",
+      "uz"
+    ],
+    "L": [
+      "gb-eng",
+      "gh",
+      "hr",
+      "pa"
+    ]
+  },
   "fixtures": [
     {
       "id": 1489369,
@@ -13,7 +87,8 @@
         "home": 2,
         "away": 0
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "A"
     },
     {
       "id": 1538999,
@@ -26,7 +101,8 @@
         "home": 2,
         "away": 1
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "A"
     },
     {
       "id": 1539000,
@@ -39,7 +115,8 @@
         "home": 1,
         "away": 1
       },
-      "winner": null
+      "winner": null,
+      "group": "B"
     },
     {
       "id": 1489370,
@@ -52,7 +129,8 @@
         "home": 4,
         "away": 1
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "D"
     },
     {
       "id": 1489373,
@@ -65,7 +143,8 @@
         "home": 1,
         "away": 1
       },
-      "winner": null
+      "winner": null,
+      "group": "B"
     },
     {
       "id": 1489371,
@@ -78,7 +157,8 @@
         "home": 1,
         "away": 1
       },
-      "winner": null
+      "winner": null,
+      "group": "C"
     },
     {
       "id": 1489372,
@@ -91,7 +171,8 @@
         "home": 0,
         "away": 1
       },
-      "winner": "away"
+      "winner": "away",
+      "group": "C"
     },
     {
       "id": 1539001,
@@ -104,7 +185,8 @@
         "home": 2,
         "away": 0
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "D"
     },
     {
       "id": 1489374,
@@ -117,7 +199,8 @@
         "home": 7,
         "away": 1
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "E"
     },
     {
       "id": 1489376,
@@ -130,7 +213,8 @@
         "home": 2,
         "away": 2
       },
-      "winner": null
+      "winner": null,
+      "group": "F"
     },
     {
       "id": 1489375,
@@ -143,7 +227,8 @@
         "home": 1,
         "away": 0
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "E"
     },
     {
       "id": 1539002,
@@ -156,7 +241,8 @@
         "home": 5,
         "away": 1
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "F"
     },
     {
       "id": 1489380,
@@ -169,7 +255,8 @@
         "home": 0,
         "away": 0
       },
-      "winner": null
+      "winner": null,
+      "group": "H"
     },
     {
       "id": 1489377,
@@ -182,7 +269,8 @@
         "home": 1,
         "away": 1
       },
-      "winner": null
+      "winner": null,
+      "group": "G"
     },
     {
       "id": 1489379,
@@ -195,7 +283,8 @@
         "home": 1,
         "away": 1
       },
-      "winner": null
+      "winner": null,
+      "group": "H"
     },
     {
       "id": 1489378,
@@ -208,7 +297,8 @@
         "home": 2,
         "away": 2
       },
-      "winner": null
+      "winner": null,
+      "group": "G"
     },
     {
       "id": 1489383,
@@ -221,7 +311,8 @@
         "home": 3,
         "away": 1
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "I"
     },
     {
       "id": 1539016,
@@ -234,7 +325,8 @@
         "home": 1,
         "away": 4
       },
-      "winner": "away"
+      "winner": "away",
+      "group": "I"
     },
     {
       "id": 1489381,
@@ -247,7 +339,8 @@
         "home": 3,
         "away": 0
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "J"
     },
     {
       "id": 1489382,
@@ -260,7 +353,8 @@
         "home": 3,
         "away": 1
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "J"
     },
     {
       "id": 1539003,
@@ -273,7 +367,8 @@
         "home": 1,
         "away": 1
       },
-      "winner": null
+      "winner": null,
+      "group": "K"
     },
     {
       "id": 1489384,
@@ -286,7 +381,8 @@
         "home": 4,
         "away": 2
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "L"
     },
     {
       "id": 1489385,
@@ -299,7 +395,8 @@
         "home": 1,
         "away": 0
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "L"
     },
     {
       "id": 1489386,
@@ -312,7 +409,8 @@
         "home": 1,
         "away": 3
       },
-      "winner": "away"
+      "winner": "away",
+      "group": "K"
     },
     {
       "id": 1539004,
@@ -325,7 +423,8 @@
         "home": 1,
         "away": 1
       },
-      "winner": null
+      "winner": null,
+      "group": "A"
     },
     {
       "id": 1539005,
@@ -338,7 +437,8 @@
         "home": 4,
         "away": 1
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "B"
     },
     {
       "id": 1489387,
@@ -351,7 +451,8 @@
         "home": 6,
         "away": 0
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "B"
     },
     {
       "id": 1489388,
@@ -364,7 +465,8 @@
         "home": 1,
         "away": 0
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "A"
     },
     {
       "id": 1489391,
@@ -377,7 +479,8 @@
         "home": 2,
         "away": 0
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "D"
     },
     {
       "id": 1489390,
@@ -390,7 +493,8 @@
         "home": 0,
         "away": 1
       },
-      "winner": "away"
+      "winner": "away",
+      "group": "C"
     },
     {
       "id": 1489389,
@@ -403,7 +507,8 @@
         "home": 3,
         "away": 0
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "C"
     },
     {
       "id": 1539006,
@@ -416,7 +521,8 @@
         "home": 0,
         "away": 1
       },
-      "winner": "away"
+      "winner": "away",
+      "group": "D"
     },
     {
       "id": 1539007,
@@ -429,7 +535,8 @@
         "home": 5,
         "away": 1
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "F"
     },
     {
       "id": 1489393,
@@ -442,7 +549,8 @@
         "home": 2,
         "away": 1
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "E"
     },
     {
       "id": 1489392,
@@ -455,7 +563,8 @@
         "home": 0,
         "away": 0
       },
-      "winner": null
+      "winner": null,
+      "group": "E"
     },
     {
       "id": 1489394,
@@ -468,7 +577,8 @@
         "home": 0,
         "away": 4
       },
-      "winner": "away"
+      "winner": "away",
+      "group": "F"
     },
     {
       "id": 1489397,
@@ -481,7 +591,8 @@
         "home": 4,
         "away": 0
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "H"
     },
     {
       "id": 1489395,
@@ -494,7 +605,8 @@
         "home": 0,
         "away": 0
       },
-      "winner": null
+      "winner": null,
+      "group": "G"
     },
     {
       "id": 1489398,
@@ -507,7 +619,8 @@
         "home": 2,
         "away": 2
       },
-      "winner": null
+      "winner": null,
+      "group": "H"
     },
     {
       "id": 1489396,
@@ -520,7 +633,8 @@
         "home": 1,
         "away": 3
       },
-      "winner": "away"
+      "winner": "away",
+      "group": "G"
     },
     {
       "id": 1489399,
@@ -533,7 +647,8 @@
         "home": 2,
         "away": 0
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "J"
     },
     {
       "id": 1539017,
@@ -546,7 +661,8 @@
         "home": 3,
         "away": 0
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "I"
     },
     {
       "id": 1489401,
@@ -559,7 +675,8 @@
         "home": 3,
         "away": 2
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "I"
     },
     {
       "id": 1489400,
@@ -572,7 +689,8 @@
         "home": 1,
         "away": 2
       },
-      "winner": "away"
+      "winner": "away",
+      "group": "J"
     },
     {
       "id": 1489404,
@@ -585,7 +703,8 @@
         "home": 5,
         "away": 0
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "K"
     },
     {
       "id": 1489402,
@@ -598,7 +717,8 @@
         "home": 0,
         "away": 0
       },
-      "winner": null
+      "winner": null,
+      "group": "L"
     },
     {
       "id": 1489403,
@@ -611,7 +731,8 @@
         "home": 0,
         "away": 1
       },
-      "winner": "away"
+      "winner": "away",
+      "group": "L"
     },
     {
       "id": 1539008,
@@ -624,7 +745,8 @@
         "home": 1,
         "away": 0
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "K"
     },
     {
       "id": 1489408,
@@ -637,7 +759,8 @@
         "home": 2,
         "away": 1
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "B"
     },
     {
       "id": 1539009,
@@ -650,7 +773,8 @@
         "home": 3,
         "away": 1
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "B"
     },
     {
       "id": 1489405,
@@ -663,7 +787,8 @@
         "home": 4,
         "away": 2
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "C"
     },
     {
       "id": 1489406,
@@ -676,7 +801,8 @@
         "home": 0,
         "away": 3
       },
-      "winner": "away"
+      "winner": "away",
+      "group": "C"
     },
     {
       "id": 1539010,
@@ -689,7 +815,8 @@
         "home": 0,
         "away": 3
       },
-      "winner": "away"
+      "winner": "away",
+      "group": "A"
     },
     {
       "id": 1489407,
@@ -702,7 +829,8 @@
         "home": 1,
         "away": 0
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "A"
     },
     {
       "id": 1489410,
@@ -715,7 +843,8 @@
         "home": 2,
         "away": 1
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "E"
     },
     {
       "id": 1489409,
@@ -728,7 +857,8 @@
         "home": 0,
         "away": 2
       },
-      "winner": "away"
+      "winner": "away",
+      "group": "E"
     },
     {
       "id": 1539011,
@@ -741,7 +871,8 @@
         "home": 1,
         "away": 1
       },
-      "winner": null
+      "winner": null,
+      "group": "F"
     },
     {
       "id": 1489412,
@@ -754,7 +885,8 @@
         "home": 1,
         "away": 3
       },
-      "winner": "away"
+      "winner": "away",
+      "group": "F"
     },
     {
       "id": 1539012,
@@ -767,7 +899,8 @@
         "home": 3,
         "away": 2
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "D"
     },
     {
       "id": 1489411,
@@ -780,7 +913,8 @@
         "home": 0,
         "away": 0
       },
-      "winner": null
+      "winner": null,
+      "group": "D"
     },
     {
       "id": 1539074,
@@ -793,7 +927,8 @@
         "home": 5,
         "away": 0
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "I"
     },
     {
       "id": 1489416,
@@ -806,7 +941,8 @@
         "home": 1,
         "away": 4
       },
-      "winner": "away"
+      "winner": "away",
+      "group": "I"
     },
     {
       "id": 1489417,
@@ -819,7 +955,8 @@
         "home": 0,
         "away": 1
       },
-      "winner": "away"
+      "winner": "away",
+      "group": "H"
     },
     {
       "id": 1489413,
@@ -832,7 +969,8 @@
         "home": 0,
         "away": 0
       },
-      "winner": null
+      "winner": null,
+      "group": "H"
     },
     {
       "id": 1489414,
@@ -845,7 +983,8 @@
         "home": 1,
         "away": 1
       },
-      "winner": null
+      "winner": null,
+      "group": "G"
     },
     {
       "id": 1489415,
@@ -858,7 +997,8 @@
         "home": 1,
         "away": 5
       },
-      "winner": "away"
+      "winner": "away",
+      "group": "G"
     },
     {
       "id": 1489420,
@@ -871,7 +1011,8 @@
         "home": 2,
         "away": 1
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "L"
     },
     {
       "id": 1489422,
@@ -884,7 +1025,8 @@
         "home": 0,
         "away": 2
       },
-      "winner": "away"
+      "winner": "away",
+      "group": "L"
     },
     {
       "id": 1489419,
@@ -897,7 +1039,8 @@
         "home": 0,
         "away": 0
       },
-      "winner": null
+      "winner": null,
+      "group": "K"
     },
     {
       "id": 1539013,
@@ -910,7 +1053,8 @@
         "home": 3,
         "away": 1
       },
-      "winner": "home"
+      "winner": "home",
+      "group": "K"
     },
     {
       "id": 1489418,
@@ -923,7 +1067,8 @@
         "home": 3,
         "away": 3
       },
-      "winner": null
+      "winner": null,
+      "group": "J"
     },
     {
       "id": 1489421,
@@ -936,7 +1081,8 @@
         "home": 1,
         "away": 3
       },
-      "winner": "away"
+      "winner": "away",
+      "group": "J"
     },
     {
       "id": 1561329,

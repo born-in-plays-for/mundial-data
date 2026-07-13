@@ -1,6 +1,6 @@
 {
   "source": "eloratings.net",
-  "updated": "2026-07-12",
+  "updated": "2026-07-13",
   "stats": {
     "total": 244,
     "fifaMembers": 211,
@@ -22,19 +22,19 @@
     },
     {
       "rank": 2,
-      "id": 250,
-      "iso2": "fr",
-      "name": "France",
-      "pts": 2163,
+      "id": 32,
+      "iso2": "ar",
+      "name": "Argentina",
+      "pts": 2177,
       "fifaMember": true,
       "weirdo": false
     },
     {
       "rank": 3,
-      "id": 32,
-      "iso2": "ar",
-      "name": "Argentina",
-      "pts": 2156,
+      "id": 250,
+      "iso2": "fr",
+      "name": "France",
+      "pts": 2163,
       "fifaMember": true,
       "weirdo": false
     },
@@ -94,19 +94,19 @@
     },
     {
       "rank": 10,
-      "id": 756,
-      "iso2": "ch",
-      "name": "Switzerland",
-      "pts": 1949,
+      "id": 56,
+      "iso2": "be",
+      "name": "Belgium",
+      "pts": 1948,
       "fifaMember": true,
       "weirdo": false
     },
     {
       "rank": 11,
-      "id": 56,
-      "iso2": "be",
-      "name": "Belgium",
-      "pts": 1948,
+      "id": 756,
+      "iso2": "ch",
+      "name": "Switzerland",
+      "pts": 1928,
       "fifaMember": true,
       "weirdo": false
     },

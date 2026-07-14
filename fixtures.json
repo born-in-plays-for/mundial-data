@@ -2078,14 +2078,14 @@
       "id": 1585131,
       "date": "2026-07-14T19:00:00+00:00",
       "round": "Semi-finals",
-      "status": "NS",
+      "status": "FT",
       "home": "fr",
       "away": "es",
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 2
       },
-      "winner": null
+      "winner": "away"
     },
     {
       "id": 1586077,

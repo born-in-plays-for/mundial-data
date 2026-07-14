@@ -124,7 +124,7 @@
       "id": 276,
       "iso2": "de",
       "name": "Germany",
-      "pts": 1908,
+      "pts": 1907,
       "fifaMember": true,
       "weirdo": false
     },
@@ -232,7 +232,7 @@
       "id": 36,
       "iso2": "au",
       "name": "Australia",
-      "pts": 1795,
+      "pts": 1794,
       "fifaMember": true,
       "weirdo": false
     },
@@ -565,12 +565,12 @@
       "id": 8263,
       "iso2": "gb-nir",
       "name": "Northern Ireland",
-      "pts": 1605,
+      "pts": 1606,
       "fifaMember": true,
       "weirdo": false
     },
     {
-      "rank": 63,
+      "rank": 64,
       "id": 70,
       "iso2": "ba",
       "name": "Bosnia and Herzegovina",
@@ -655,7 +655,7 @@
       "id": 710,
       "iso2": "za",
       "name": "South Africa",
-      "pts": 1559,
+      "pts": 1560,
       "fifaMember": true,
       "weirdo": false
     },

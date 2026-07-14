@@ -1,6 +1,6 @@
 {
   "source": "eloratings.net",
-  "updated": "2026-07-13",
+  "updated": "2026-07-14",
   "stats": {
     "total": 244,
     "fifaMembers": 211,
@@ -151,7 +151,7 @@
       "id": 191,
       "iso2": "hr",
       "name": "Croatia",
-      "pts": 1882,
+      "pts": 1881,
       "fifaMember": true,
       "weirdo": false
     },
@@ -994,18 +994,18 @@
     },
     {
       "rank": 111,
-      "id": 174,
-      "iso2": "km",
-      "name": "Comoros",
-      "pts": 1374,
+      "id": 51,
+      "iso2": "am",
+      "name": "Armenia",
+      "pts": 1373,
       "fifaMember": true,
       "weirdo": false
     },
     {
-      "rank": 112,
-      "id": 51,
-      "iso2": "am",
-      "name": "Armenia",
+      "rank": 111,
+      "id": 174,
+      "iso2": "km",
+      "name": "Comoros",
       "pts": 1373,
       "fifaMember": true,
       "weirdo": false
@@ -1870,7 +1870,7 @@
       "id": 535,
       "iso2": "bq",
       "name": "Caribbean Netherlands",
-      "pts": 816,
+      "pts": 817,
       "fifaMember": false,
       "weirdo": false
     },
@@ -2050,7 +2050,7 @@
       "id": null,
       "iso2": null,
       "name": "Tibet",
-      "pts": 629,
+      "pts": 630,
       "fifaMember": false,
       "weirdo": true
     },

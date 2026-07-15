@@ -1,6 +1,6 @@
 {
   "source": "eloratings.net",
-  "updated": "2026-07-14",
+  "updated": "2026-07-15",
   "stats": {
     "total": 244,
     "fifaMembers": 211,
@@ -16,7 +16,7 @@
       "id": 724,
       "iso2": "es",
       "name": "Spain",
-      "pts": 2190,
+      "pts": 2232,
       "fifaMember": true,
       "weirdo": false
     },
@@ -34,7 +34,7 @@
       "id": 250,
       "iso2": "fr",
       "name": "France",
-      "pts": 2163,
+      "pts": 2121,
       "fifaMember": true,
       "weirdo": false
     },
@@ -124,7 +124,7 @@
       "id": 276,
       "iso2": "de",
       "name": "Germany",
-      "pts": 1907,
+      "pts": 1908,
       "fifaMember": true,
       "weirdo": false
     },
@@ -151,7 +151,7 @@
       "id": 191,
       "iso2": "hr",
       "name": "Croatia",
-      "pts": 1881,
+      "pts": 1882,
       "fifaMember": true,
       "weirdo": false
     },
@@ -232,7 +232,7 @@
       "id": 36,
       "iso2": "au",
       "name": "Australia",
-      "pts": 1794,
+      "pts": 1795,
       "fifaMember": true,
       "weirdo": false
     },
@@ -412,12 +412,12 @@
       "id": 604,
       "iso2": "pe",
       "name": "Peru",
-      "pts": 1700,
+      "pts": 1699,
       "fifaMember": true,
       "weirdo": false
     },
     {
-      "rank": 47,
+      "rank": 46,
       "id": 372,
       "iso2": "ie",
       "name": "Ireland",
@@ -547,7 +547,7 @@
       "id": 120,
       "iso2": "cm",
       "name": "Cameroon",
-      "pts": 1613,
+      "pts": 1614,
       "fifaMember": true,
       "weirdo": false
     },
@@ -556,7 +556,7 @@
       "id": 188,
       "iso2": "cr",
       "name": "Costa Rica",
-      "pts": 1608,
+      "pts": 1609,
       "fifaMember": true,
       "weirdo": false
     },
@@ -565,12 +565,12 @@
       "id": 8263,
       "iso2": "gb-nir",
       "name": "Northern Ireland",
-      "pts": 1606,
+      "pts": 1605,
       "fifaMember": true,
       "weirdo": false
     },
     {
-      "rank": 64,
+      "rank": 63,
       "id": 70,
       "iso2": "ba",
       "name": "Bosnia and Herzegovina",
@@ -994,18 +994,18 @@
     },
     {
       "rank": 111,
-      "id": 51,
-      "iso2": "am",
-      "name": "Armenia",
-      "pts": 1373,
+      "id": 174,
+      "iso2": "km",
+      "name": "Comoros",
+      "pts": 1374,
       "fifaMember": true,
       "weirdo": false
     },
     {
-      "rank": 111,
-      "id": 174,
-      "iso2": "km",
-      "name": "Comoros",
+      "rank": 112,
+      "id": 51,
+      "iso2": "am",
+      "name": "Armenia",
       "pts": 1373,
       "fifaMember": true,
       "weirdo": false
@@ -1282,19 +1282,19 @@
     },
     {
       "rank": 143,
-      "id": 108,
-      "iso2": "bi",
-      "name": "Burundi",
+      "id": 762,
+      "iso2": "tj",
+      "name": "Tajikistan",
       "pts": 1285,
       "fifaMember": true,
       "weirdo": false
     },
     {
-      "rank": 144,
-      "id": 762,
-      "iso2": "tj",
-      "name": "Tajikistan",
-      "pts": 1284,
+      "rank": 143,
+      "id": 108,
+      "iso2": "bi",
+      "name": "Burundi",
+      "pts": 1285,
       "fifaMember": true,
       "weirdo": false
     },
@@ -1618,7 +1618,7 @@
       "id": 663,
       "iso2": "mf",
       "name": "Saint Martin",
-      "pts": 1043,
+      "pts": 1042,
       "fifaMember": false,
       "weirdo": false
     },
@@ -1762,7 +1762,7 @@
       "id": 212,
       "iso2": "dm",
       "name": "Dominica",
-      "pts": 935,
+      "pts": 934,
       "fifaMember": true,
       "weirdo": false
     },
@@ -2041,7 +2041,7 @@
       "id": 660,
       "iso2": "ai",
       "name": "Anguilla",
-      "pts": 647,
+      "pts": 646,
       "fifaMember": true,
       "weirdo": false
     },

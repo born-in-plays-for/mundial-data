@@ -1,6 +1,6 @@
 {
   "source": "eloratings.net",
-  "updated": "2026-07-15",
+  "updated": "2026-07-16",
   "stats": {
     "total": 244,
     "fifaMembers": 211,
@@ -25,7 +25,7 @@
       "id": 32,
       "iso2": "ar",
       "name": "Argentina",
-      "pts": 2177,
+      "pts": 2200,
       "fifaMember": true,
       "weirdo": false
     },
@@ -43,7 +43,7 @@
       "id": 8260,
       "iso2": "gb-eng",
       "name": "England",
-      "pts": 2097,
+      "pts": 2074,
       "fifaMember": true,
       "weirdo": false
     },

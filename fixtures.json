@@ -1,6 +1,6 @@
 {
   "source": "api-football.com",
-  "updated": "2026-07-15",
+  "updated": "2026-07-16",
   "groups": {
     "A": [
       "cz",
@@ -2091,8 +2091,34 @@
       "id": 1586077,
       "date": "2026-07-15T19:00:00+00:00",
       "round": "Semi-finals",
-      "status": "NS",
+      "status": "FT",
       "home": "gb-eng",
+      "away": "ar",
+      "goals": {
+        "home": 1,
+        "away": 2
+      },
+      "winner": "away"
+    },
+    {
+      "id": 1591865,
+      "date": "2026-07-18T21:00:00+00:00",
+      "round": "3rd Place Final",
+      "status": "NS",
+      "home": "fr",
+      "away": "gb-eng",
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "winner": null
+    },
+    {
+      "id": 1591866,
+      "date": "2026-07-19T19:00:00+00:00",
+      "round": "Final",
+      "status": "NS",
+      "home": "es",
       "away": "ar",
       "goals": {
         "home": null,

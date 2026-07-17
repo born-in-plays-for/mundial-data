@@ -1,6 +1,6 @@
 {
   "source": "eloratings.net",
-  "updated": "2026-07-16",
+  "updated": "2026-07-17",
   "stats": {
     "total": 244,
     "fifaMembers": 211,
@@ -556,7 +556,7 @@
       "id": 188,
       "iso2": "cr",
       "name": "Costa Rica",
-      "pts": 1609,
+      "pts": 1608,
       "fifaMember": true,
       "weirdo": false
     },
@@ -655,7 +655,7 @@
       "id": 710,
       "iso2": "za",
       "name": "South Africa",
-      "pts": 1560,
+      "pts": 1559,
       "fifaMember": true,
       "weirdo": false
     },
@@ -736,16 +736,7 @@
       "id": 320,
       "iso2": "gt",
       "name": "Guatemala",
-      "pts": 1504,
-      "fifaMember": true,
-      "weirdo": false
-    },
-    {
-      "rank": 83,
-      "id": 760,
-      "iso2": "sy",
-      "name": "Syria",
-      "pts": 1479,
+      "pts": 1505,
       "fifaMember": true,
       "weirdo": false
     },
@@ -754,6 +745,15 @@
       "id": 512,
       "iso2": "om",
       "name": "Oman",
+      "pts": 1480,
+      "fifaMember": true,
+      "weirdo": false
+    },
+    {
+      "rank": 84,
+      "id": 760,
+      "iso2": "sy",
+      "name": "Syria",
       "pts": 1479,
       "fifaMember": true,
       "weirdo": false
@@ -994,18 +994,18 @@
     },
     {
       "rank": 111,
-      "id": 174,
-      "iso2": "km",
-      "name": "Comoros",
-      "pts": 1374,
+      "id": 51,
+      "iso2": "am",
+      "name": "Armenia",
+      "pts": 1373,
       "fifaMember": true,
       "weirdo": false
     },
     {
-      "rank": 112,
-      "id": 51,
-      "iso2": "am",
-      "name": "Armenia",
+      "rank": 111,
+      "id": 174,
+      "iso2": "km",
+      "name": "Comoros",
       "pts": 1373,
       "fifaMember": true,
       "weirdo": false
@@ -1933,12 +1933,12 @@
       "id": 418,
       "iso2": "la",
       "name": "Laos",
-      "pts": 734,
+      "pts": 735,
       "fifaMember": true,
       "weirdo": false
     },
     {
-      "rank": 215,
+      "rank": 216,
       "id": 626,
       "iso2": "tl",
       "name": "Timor-Leste",

@@ -16,7 +16,7 @@
       "id": 724,
       "iso2": "es",
       "name": "Spain",
-      "pts": 2232,
+      "pts": 2259,
       "fifaMember": true,
       "weirdo": false
     },
@@ -25,7 +25,7 @@
       "id": 32,
       "iso2": "ar",
       "name": "Argentina",
-      "pts": 2200,
+      "pts": 2173,
       "fifaMember": true,
       "weirdo": false
     },
@@ -1060,7 +1060,7 @@
       "id": 704,
       "iso2": "vn",
       "name": "Vietnam",
-      "pts": 1351,
+      "pts": 1353,
       "fifaMember": true,
       "weirdo": false
     },
@@ -1681,7 +1681,7 @@
       "id": 104,
       "iso2": "mm",
       "name": "Myanmar",
-      "pts": 984,
+      "pts": 982,
       "fifaMember": true,
       "weirdo": false
     },

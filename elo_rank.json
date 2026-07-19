@@ -4,8 +4,8 @@
   "stats": {
     "total": 245,
     "fifaMembers": 211,
-    "nonFifaSovereign": 25,
-    "weirdos": 8,
+    "nonFifaSovereign": 27,
+    "weirdos": 6,
     "fifaOfficialCount": 211,
     "fifaAbsences": 0
   },
@@ -805,12 +805,12 @@
     },
     {
       "rank": 90,
-      "id": null,
-      "iso2": null,
+      "id": 8264,
+      "iso2": "northern_cyprus",
       "name": "Northern Cyprus",
       "pts": 1442,
       "fifaMember": false,
-      "weirdo": true
+      "weirdo": false
     },
     {
       "rank": 91,
@@ -1651,12 +1651,12 @@
     },
     {
       "rank": 184,
-      "id": null,
-      "iso2": null,
+      "id": 8265,
+      "iso2": "somaliland",
       "name": "Somaliland",
       "pts": 1005,
       "fifaMember": false,
-      "weirdo": true
+      "weirdo": false
     },
     {
       "rank": 185,

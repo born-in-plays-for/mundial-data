@@ -2,7 +2,7 @@
   "source": "eloratings.net",
   "updated": "2026-07-19",
   "stats": {
-    "total": 244,
+    "total": 245,
     "fifaMembers": 211,
     "nonFifaSovereign": 25,
     "weirdos": 8,
@@ -2205,6 +2205,15 @@
       "name": "Kosovo",
       "pts": null,
       "fifaMember": true,
+      "weirdo": false
+    },
+    {
+      "rank": null,
+      "id": 833,
+      "iso2": "im",
+      "name": "Isle of Man",
+      "pts": null,
+      "fifaMember": false,
       "weirdo": false
     }
   ]

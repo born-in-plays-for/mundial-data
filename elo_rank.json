@@ -1,6 +1,6 @@
 {
   "source": "eloratings.net",
-  "updated": "2026-07-18",
+  "updated": "2026-07-19",
   "stats": {
     "total": 244,
     "fifaMembers": 211,
@@ -31,19 +31,19 @@
     },
     {
       "rank": 3,
-      "id": 250,
-      "iso2": "fr",
-      "name": "France",
-      "pts": 2121,
+      "id": 8260,
+      "iso2": "gb-eng",
+      "name": "England",
+      "pts": 2125,
       "fifaMember": true,
       "weirdo": false
     },
     {
       "rank": 4,
-      "id": 8260,
-      "iso2": "gb-eng",
-      "name": "England",
-      "pts": 2074,
+      "id": 250,
+      "iso2": "fr",
+      "name": "France",
+      "pts": 2070,
       "fifaMember": true,
       "weirdo": false
     },

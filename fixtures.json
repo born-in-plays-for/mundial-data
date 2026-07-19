@@ -1,6 +1,6 @@
 {
   "source": "api-football.com",
-  "updated": "2026-07-19",
+  "updated": "2026-07-20",
   "groups": {
     "A": [
       "cz",
@@ -2117,14 +2117,14 @@
       "id": 1591866,
       "date": "2026-07-19T19:00:00+00:00",
       "round": "Final",
-      "status": "NS",
+      "status": "AET",
       "home": "es",
       "away": "ar",
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
-      "winner": null
+      "winner": "home"
     }
   ]
 }
